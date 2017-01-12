@@ -1,0 +1,6 @@
+#!/usr/bin/python
+# -*-coding:UTF-8 -*-
+print "hello world"
+print "你好世界"
+
+raw_input("Press <enter>")
