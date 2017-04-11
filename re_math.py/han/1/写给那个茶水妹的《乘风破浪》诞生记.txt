@@ -1,0 +1,649 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>写给那个茶水妹的《乘风破浪》诞生记_韩寒_新浪博客</title>
+<meta name="keywords" content="写给那个茶水妹的《乘风破浪》诞生记_韩寒_新浪博客,韩寒,杂谈" />
+<meta name="description" content="写给那个茶水妹的《乘风破浪》诞生记_韩寒_新浪博客,韩寒," />
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+<meta http-equiv="mobile-agent" content="format=html5; url=http://blog.sina.cn/dpool/blog/s/blog_4701280b0102wruo.html?vt=4">
+<meta http-equiv="mobile-agent" content="format=wml; url=http://blog.sina.cn/dpool/blog/ArtRead.php?nid=4701280b0102wruo&vt=1">
+<!–[if lte IE 6]>
+<script type="text/javascript">
+try{
+document.execCommand("BackgroundImageCache", false, true);
+}catch(e){}
+</script>
+<![endif]–>
+<script type="text/javascript">
+window.staticTime=new Date().getTime();
+</script>
+<link rel="pingback" href="http://upload.move.blog.sina.com.cn/blog_rebuild/blog/xmlrpc.php" />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://upload.move.blog.sina.com.cn/blog_rebuild/blog/xmlrpc.php?rsd" />
+<link href="http://blog.sina.com.cn/blog_rebuild/blog/wlwmanifest.xml" type="application/wlwmanifest+xml" rel="wlwmanifest" />
+<link rel="alternate" type="application/rss+xml" href="http://blog.sina.com.cn/rss/1191258123.xml" title="RSS" />
+<link href="http://simg.sinajs.cn/blog7style/css/conf/blog/article.css" type="text/css" rel="stylesheet" /><link href="http://simg.sinajs.cn/blog7style/css/common/common.css" type="text/css" rel="stylesheet" /><link href="http://simg.sinajs.cn/blog7style/css/blog/blog.css" type="text/css" rel="stylesheet" /><link href="http://simg.sinajs.cn/blog7style/css/module/common/blog.css" type="text/css" rel="stylesheet" /><style id="tplstyle" type="text/css">@charset "utf-8";@import url("http://simg.sinajs.cn/blog7newtpl/css/32/32_1/t.css");
+</style>
+<style id="positionstyle"  type="text/css">
+.sinabloghead .blogtoparea{ left:83px;top:172px;}
+.sinabloghead .blognav{ left:82px;top:231px;}
+</style>
+<style id="bgcolor"  type="text/css">
+body{background-color: rgb(160, 160, 160);}
+</style>
+<style id="bgtyle"  type="text/css">
+body{background-image:none;}.sinabloga{ background-image:none; }
+.sinablogb{ background-image: url(http://s4.sinaimg.cn/orignal/4701280bxc88636eb3de3); }
+.sinablogb{ background-repeat:no-repeat; background-position:center top;}
+</style>
+<style id="heightstyle"  type="text/css">
+.sinabloghead{ height: 310px; }
+</style>
+<style id="headtyle"  type="text/css">
+.sinabloghead{ background-image: url(http://s12.sinaimg.cn/orignal/4701280bxc8863752010b);}
+.sinabloghead{ background-repeat:no-repeat; background-position:center top;}
+</style>
+<style id="navtyle"  type="text/css">
+</style>
+<script type="text/javascript" src="http://d1.sina.com.cn/litong/zhitou/sspnew.js"></script></head>
+<body>
+<!--$sinatopbar-->
+<div style="z-index:512;" class="nsinatopbar">
+  <div style="position:absolute;left:0;top:0;" id="trayFlashConnetion"></div>
+  <div class="ntopbar_main"> 
+    <a id="login_bar_logo_link_350" href="http://blog.sina.com.cn" target="_blank"><img class="ntopbar_logo" src="http://simg.sinajs.cn/blog7style/images/common/topbar/topbar_logo.gif" width="100" alt="新浪博客"></a>
+    <div class="ntopbar_floatL">
+      <div class="ntopbar_search" id="traySearchBar"></div>
+	  <div class="ntopbar_ad" id="loginBarActivity" style="display:none;"></div>
+    </div>
+    <div class="ntopbar_loading"><img src="http://simg.sinajs.cn/blog7style/images/common/loading.gif">加载中…</div>
+  </div>
+</div>
+<!--$end sinatopbar-->
+
+<div class="sinabloga" id="sinabloga">
+	<div id="sinablogb" class="sinablogb">
+
+	   
+ <div id="sinablogHead" class="sinabloghead">
+     <div style="display: none;" id="headflash" class="headflash"></div>
+	   <div id="headarea" class="headarea">
+      <div id="blogTitle" class="blogtoparea">
+      <h1 id="blogname" class="blogtitle"><a href="http://blog.sina.com.cn/twocold"><span id="blognamespan">加载中...</span></a></h1>
+	  	  <div class="bloglink"><a href="http://blog.sina.com.cn/v/verify" target="_blank"><img src="http://simg.sinajs.cn/blog7style/images/common/v_blog_y.jpg"  width="80" height="20" title="新浪个人认证" align="absmiddle" /></a>作家,赛车手韩寒</div>
+	  		
+					<div id="bloglink" class="bloglink"><a href="http://blog.sina.com.cn/twocold">http://blog.sina.com.cn/twocold</a>  <a onclick="return false;" class="CP_a_fuc" href="#" id="SubscribeNewRss">[<cite>订阅</cite>]</a><a class="CP_a_fuc" href="javascript:void(scope.pa_add.add('1191258123'));">[<cite>手机订阅</cite>]</a></div>
+      </div>
+      <div class="blognav" id="blognav">
+      			  <div id="blognavBg" class="blognavBg"></div> <div class="blognavInfo"> 
+		<span><a   href="http://blog.sina.com.cn/twocold">首页</a></span>
+      <span><a class="on" href="http://blog.sina.com.cn/s/articlelist_1191258123_0_1.html">博文目录</a></span>
+      <span><a href="http://photo.blog.sina.com.cn/twocold">图片</a></span>
+      <span class="last"><a  href="http://blog.sina.com.cn/s/profile_1191258123.html">关于我</a></span></div>
+      </div>      		      		 	
+      
+             <div class="autoskin" id="auto_skin">
+       </div>
+
+<div class="adsarea">
+     <a href="#"><div id="template_clone_pic" class="pic"></div></a>
+     <div id="template_clone_link" class="link wdc_HInf"></div>
+     <div id="template_clone_other" class="other"></div>        
+</div>
+    </div>
+    </div>
+    
+    <!--主题内容开始 -->
+    <div class="sinablogbody" id="sinablogbody">
+	    <div id="blogads" style="display: none;" class="blogads" uid="1191258123" formatInfo="1"><div class="ad_head"></div><div class="ad_body"><div id="adversite_top" class="adsle">
+	</div><div class="adsrig">新浪广告共享计划></div><div class="clearit"></div></div><div class="ad_foot"></div></div>
+		
+	<!--第一列start-->
+    <div id="column_1" class="SG_colW21 SG_colFirst"><div class="SG_conn" id="module_901">
+    <div class="SG_connHead">
+            <span class="title" comp_title="个人资料">个人资料</span>
+            <span class="edit">
+                        </span>
+    </div>
+    <div class="SG_connBody">
+        <div class="info">
+                         
+            <div class="info_img" id="comp_901_head"><img src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" real_src ="http://portrait4.sinaimg.cn/1191258123/blog/180" id="comp_901_head_image" width="180" height="180" alt="韩寒" title="韩寒" /></div>
+            
+            <div class="info_txt">
+              <div class="info_nm">
+                <img id="comp_901_online_icon" style="display:none;" class="SG_icon SG_icon1" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle" />
+                <span class="SG_txtb"><strong id="ownernick">韩寒                <a href="http://blog.sina.com.cn/v/verify" target="_blank"><img class="SG_icon SG_icon146" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" title="新浪个人认证" alt="新浪个人认证" align="absmiddle" /></a>                </strong></span>
+                
+                <div class="clearit"></div>
+              </div>
+              <div class="info_btn1">
+                <a target="_blank" href="http://weibo.com/u/1191258123?source=blog" class="SG_aBtn SG_aBtn_ico"><cite><img class="SG_icon SG_icon51" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle" />微博</cite></a>
+                <div class="clearit"></div>
+              </div>
+    <div class="SG_j_linedot"></div>        <div class="info_locate" id = "info_locate_id">
+<div class="SG_j_linedot"></div>
+<div class="info_btn2">
+    <p>
+    <a href="javascript:void(0);" class="SG_aBtn " id="comp901_btn_invite"><cite >加好友</cite></a>
+    <a href="javascript:void(0);" class="SG_aBtn" id="comp901_btn_sendpaper"><cite >发纸条</cite></a>
+    </p>
+    <p>
+    <a href="http://blog.sina.com.cn/s/profile_1191258123.html#write" class="SG_aBtn"   id="comp901_btn_msninfo"><cite>写留言</cite></a>
+    <a href="#" onclick="return false;" class="SG_aBtn"  id="comp901_btn_follow"><cite onclick="Module.SeeState.add()">加关注</cite></a>
+    </p>
+    <div class="clearit"></div>
+</div>
+<div class="SG_j_linedot"></div>
+</div>
+                  <div class="info_list">     
+                                   <ul class="info_list1">
+                    <li><span class="SG_txtc">博客等级：</span><span id="comp_901_grade"><img src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" real_src="http://simg.sinajs.cn/blog7style/images/common/number/3.gif"  /><img src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" real_src="http://simg.sinajs.cn/blog7style/images/common/number/6.gif"  /></span></li>
+                    <li><span class="SG_txtc">博客积分：</span><span id="comp_901_score"><strong>0</strong></span></li>
+                    </ul>
+                    <ul class="info_list2">
+                    <li><span class="SG_txtc">博客访问：</span><span id="comp_901_pv"><strong>603,067,589</strong></span></li>
+                    <li><span class="SG_txtc">关注人气：</span><span id="comp_901_attention"><strong>1,784,856</strong></span></li>
+                    <li><span class="SG_txtc">获赠金笔：</span><strong id="comp_901_d_goldpen">0支</strong></li>
+                    <li><span class="SG_txtc">赠出金笔：</span><strong id="comp_901_r_goldpen">0支</strong></li>
+					<li class="lisp" id="comp_901_badge"><span class="SG_txtc">荣誉徽章：</span></li>
+                    </ul>
+                  </div>
+<div class="clearit"></div>
+    </div>
+    <div class="clearit"></div>
+</div>
+            </div>       
+            <div class="SG_connFoot"></div>
+</div>
+<div id="adps_person" style="display:none">
+<div class="SG_conn" id="module_946">
+    <div class="SG_connHead">
+            <span class="title" comp_title="广告共享计划">广告共享计划</span>
+            <span class="edit"></span>
+    </div>
+    <div class="SG_connBody">
+                    <!--广告容器 --> 
+           <div class="widgetcen"> 
+           <div class="widgetconn" id="adps000001" > 
+            广告共享计划<!--广告内容 --> 
+           </div> 
+           </div> 
+            <!--广告容器结束 --> 
+         <div class="clearit"></div>
+    </div>       
+    <div class="SG_connFoot"></div>
+</div>
+</div><div id="module_903" class="SG_conn ">
+    <div class="SG_connHead">
+    <span comp_title="相关博文" class="title">相关博文</span>
+    <span class="edit"> </span>
+    </div>
+    <div class="SG_connBody">
+    <div class="atcTitList relaList">        <ul class="">
+
+                <li class="SG_j_linedot1" style="display:none;">
+            <p id="atcTitLi_SLOT_41" class="atcTitCell_tit SG_dot" style="display:none">
+        </p>
+        </li>
+        <li class="SG_j_linedot1" style="display:none;">
+            <p id="atcTitLi_SLOT_42"  class="atcTitCell_tit SG_dot" style="display:none">
+        </p>
+        </li>
+        
+                	</ul>
+    <div class="atcTit_more"><span class="SG_more"><a href="http://blog.sina.com.cn/" target="_blank">更多&gt;&gt;</a></span></div></div>    </div>
+    <div class="SG_connFoot"></div>
+  </div>
+<div id="module_904_top_ad"></div>
+<div class="SG_conn " id="module_904">
+<div class="SG_connHead">
+<span class="title">推荐博文</span>
+</div>
+<div class="SG_connBody ">
+	<div class="atcTitList relaList">		<ul class="">
+			<li class="SG_j_linedot1"><p class="atcTitCell_tit SG_dot"><a suda-uatrack="key=blog_tjblog&value=h_tjblog" title="关于雄安的三个问题&nbsp;" target="_blank" href="http://blog.sina.com.cn/s/blog_49818dcb0102xchh.html?tj=2?tj=2">关于雄安的三个问题&nbsp;</a></p>
+        <p class="atcTitCell_nm"><a suda-uatrack="key=blog_tjblog&value=h_tjblog" target="_blank" href="http://blog.sina.com.cn/u/1233227211" class="SG_linkb"></a></p>
+		</li><li class="SG_j_linedot1"><p class="atcTitCell_tit SG_dot"><a suda-uatrack="key=blog_tjblog&value=h_tjblog" title="游行、反恐、分权：普京的201" target="_blank" href="http://blog.sina.com.cn/s/blog_470bf2570102x4up.html?tj=2?tj=2">游行、反恐、分权：普京的201</a></p>
+        <p class="atcTitCell_nm"><a suda-uatrack="key=blog_tjblog&value=h_tjblog" target="_blank" href="http://blog.sina.com.cn/u/1191965271" class="SG_linkb"></a></p>
+		</li><li class="SG_j_linedot1"><p class="atcTitCell_tit SG_dot"><a suda-uatrack="key=blog_tjblog&value=h_tjblog" title="为什么硬要买学区房｜不是孩子会" target="_blank" href="http://blog.sina.com.cn/s/blog_648926ed0102x0qu.html?tj=2?tj=2">为什么硬要买学区房｜不是孩子会</a></p>
+        <p class="atcTitCell_nm"><a suda-uatrack="key=blog_tjblog&value=h_tjblog" target="_blank" href="http://blog.sina.com.cn/u/1686709997" class="SG_linkb"></a></p>
+		</li><li class="SG_j_linedot1"><p class="atcTitCell_tit SG_dot"><a suda-uatrack="key=blog_tjblog&value=h_tjblog" title="崇祯陵寝文物被盗，相关人员为何" target="_blank" href="http://blog.sina.com.cn/s/blog_6060876c0102wqh3.html?tj=2?tj=2">崇祯陵寝文物被盗，相关人员为何</a></p>
+        <p class="atcTitCell_nm"><a suda-uatrack="key=blog_tjblog&value=h_tjblog" target="_blank" href="http://blog.sina.com.cn/u/1616938860" class="SG_linkb"></a></p>
+		</li><li class="SG_j_linedot1"><p class="atcTitCell_tit SG_dot"><a suda-uatrack="key=blog_tjblog&value=h_tjblog" title="锐评&nbsp;衡水一中开分号" target="_blank" href="http://blog.sina.com.cn/s/blog_694171200102ws2f.html?tj=2?tj=2">锐评&nbsp;衡水一中开分号</a></p>
+        <p class="atcTitCell_nm"><a suda-uatrack="key=blog_tjblog&value=h_tjblog" target="_blank" href="http://blog.sina.com.cn/u/1765896480" class="SG_linkb"></a></p>
+		</li><li class="SG_j_linedot1"><p class="atcTitCell_tit SG_dot"><a suda-uatrack="key=blog_tjblog&value=h_tjblog" title="浮夸风从温州小镇吹起来了？" target="_blank" href="http://blog.sina.com.cn/s/blog_79499ff60102wrei.html?tj=2?tj=2">浮夸风从温州小镇吹起来了？</a></p>
+        <p class="atcTitCell_nm"><a suda-uatrack="key=blog_tjblog&value=h_tjblog" target="_blank" href="http://blog.sina.com.cn/u/2034868214" class="SG_linkb"></a></p>
+		</li><li class="SG_j_linedot1"><p class="atcTitCell_tit SG_dot"><a suda-uatrack="key=blog_tjblog&value=h_tjblog" title="代孕合法化？一场无法回避的争论" target="_blank" href="http://blog.sina.com.cn/s/blog_48809ddf0102xby1.html?tj=2?tj=2">代孕合法化？一场无法回避的争论</a></p>
+        <p class="atcTitCell_nm"><a suda-uatrack="key=blog_tjblog&value=h_tjblog" target="_blank" href="http://blog.sina.com.cn/u/1216388575" class="SG_linkb"></a></p>
+		</li><li class="SG_j_linedot1"><p class="atcTitCell_tit SG_dot"><a suda-uatrack="key=blog_tjblog&value=h_tjblog" title="治理“垃圾围城”：环保部长能出" target="_blank" href="http://blog.sina.com.cn/s/blog_53ff33bd0102x4vd.html?tj=2?tj=2">治理“垃圾围城”：环保部长能出</a></p>
+        <p class="atcTitCell_nm"><a suda-uatrack="key=blog_tjblog&value=h_tjblog" target="_blank" href="http://blog.sina.com.cn/u/1409233853" class="SG_linkb"></a></p>
+		</li><li class="SG_j_linedot1"><p class="atcTitCell_tit SG_dot"><a suda-uatrack="key=blog_tjblog&value=h_tjblog" title="她24岁，做自媒体挣七位数，拿" target="_blank" href="http://blog.sina.com.cn/s/blog_15f079d400102y4qb.html?tj=2?tj=2">她24岁，做自媒体挣七位数，拿</a></p>
+        <p class="atcTitCell_nm"><a suda-uatrack="key=blog_tjblog&value=h_tjblog" target="_blank" href="http://blog.sina.com.cn/u/5889301824" class="SG_linkb"></a></p>
+		</li><li class="SG_j_linedot1"><p class="atcTitCell_tit SG_dot"><a suda-uatrack="key=blog_tjblog&value=h_tjblog" title="不爱玩游戏也没有跑酷经验的法鲨" target="_blank" href="http://blog.sina.com.cn/s/blog_6e53d84f0102wlqt.html?tj=2?tj=2">不爱玩游戏也没有跑酷经验的法鲨</a></p>
+        <p class="atcTitCell_nm"><a suda-uatrack="key=blog_tjblog&value=h_tjblog" target="_blank" href="http://blog.sina.com.cn/u/1850988623" class="SG_linkb"></a></p>
+		</li>		</ul>
+		<div id="atcPicList">
+		</div>
+	<div class="atcTit_more"><span class="SG_more"><a target="_blank" href="http://blog.sina.com.cn/">查看更多</a>&gt;&gt;</span></div></div></div>
+<div class="SG_connFoot"></div>
+</div>
+</div>
+	<!--第一列end-->
+	
+	<!--第二列start-->
+	<div id="column_2" class="SG_colW73">	
+<div id="module_920" class="SG_conn">
+	<div class="SG_connHead">
+	    <span comp_title="正文" class="title">正文</span>
+	    <span class="edit"><span id="articleFontManage" class="fontSize">字体大小：<a href="javascript:;" onclick="changeFontSize(2);return false;">大</a> <strong>中</strong> <a href="javascript:;" onclick="changeFontSize(0);return false;">小</a></span></span>
+	</div>
+    <div class="SG_connBody">
+<!--博文正文 begin -->
+	<div id="articlebody" class="artical" favMD5='{"4701280b0102wruo":"88457ce972e1ab8ac440dafe222d8401"}'>
+		<div class="articalTitle"> 
+			
+								<h2 id="t_4701280b0102wruo" class="titName SG_txta">写给那个茶水妹的《乘风破浪》诞生记</h2>
+			
+					<span class="time SG_txtc">(2017-01-26 21:40:40)</span><div class="turnBoxzz"><a href="javascript:;" class="SG_aBtn SG_aBtn_ico SG_turn"  action-type="reblog" action-data="{srcBlog:1, blogId:'4701280b0102wruo'}"><cite><img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle">转载<em class="arrow">▼</em></cite></a></div>		</div>
+		<div class="articalTag" id="sina_keyword_ad_area">
+			<table>
+				<tr>
+					<td class="blog_tag">
+					<script>
+					var $tag='杂谈';
+					var $tag_code='9a2832989a66dadfd5884617e891ec61';
+					var $r_quote_bligid='4701280b0102wruo';
+					var $worldcup='0';
+					var $worldcupball='0';
+					</script>
+											<span class="SG_txtb">标签：</span>
+																				<h3><a href="http://search.sina.com.cn/?c=blog&q=%D4%D3%CC%B8&by=tag" target="_blank">杂谈</a></h3>
+																</td>
+					<td class="blog_class">
+										</td>
+				</tr>
+			</table>
+		</div>
+						<!-- 正文开始 -->
+		<div id="sina_keyword_ad_area2" class="articalContent   newfont_family">
+			<p ALIGN="center"><b><font COLOR="#333333">去年秋冬，ONE实验室作者生活在《乘风破浪》剧组中间，见证了拍摄过程，本文讲述的就是电影诞生的故事。这也是茶水妹和她的伙伴们，包括导演和主演们的故事。正是三百多个年轻人像候鸟一样来到亭林镇附近，带着他们年轻的人生，发生了一场年轻的化学反应，才造就了《乘风破浪》。</FONT></B></P>
+<p>
+2016年，上海，初秋，穿过城市的风带着南方特有的湿气。藏在每天涌入这座巨型城市的喧闹人潮当中，《乘风破浪》悄无声息地开拍了。没有开机仪式，连最为传统的两个基础步骤——烧香，以及揭开事先盖在摄影机上的红布——也被省略了。你甚至无法在现场的三百多张工作证上找到这部电影的名字，取而代之的是不用说也知道出自谁手的七个金色大字，“金秋十月农忙欢”。</P>
+<p>&nbsp;<wbr>&nbsp;<wbr>&nbsp;<wbr>
+开机当天凌晨4点，制片主任徐征带着全体主创去寺庙做了一场早课。果然，导演韩寒再次错过了这场以“求个平安”为目的的祈福——他最重要的第二项人生追求是“可以自由决定睡眠时间”。通常情况下，这会由对醒来之后所要做的事情的热爱程度来决定，比如拍摄正式开始没几天，他一下子就变成了全组睡得最晚、起得最早的人。</P>
+<p>
+而第一项人生追求“不主动社交”则被他贯彻得更加彻底——开机仪式就被他视为不必要的社交活动之一。不过，如果有人据此推断导演是个难以相处的人，那么用不了多久，他就会发现自己完全搞错了。</P>
+<p>
+导演不是没有听过诸多电影前辈关于“刚开始拍一定要用高压政策把所有人震住”的劝诫，但显然从来没打算这么做。他看起来总是很轻松，“特别爱玩”，“特别能跑”。</P>
+<p>
+最开始，很多身经百战的剧组人像看西洋镜一样看着这个从不发火的导演，“从来没见过”，他们说，有人甚至试图用地域来解释这个问题，“是不是因为他是上海人啊？”又过了一段时间，他们惊讶地发现几个制片人说话的口气和神态都开始跟导演越来越像了。</P>
+<p>&nbsp;<wbr>&nbsp;<wbr>
+“所以这个制作团队，”他的好朋友、这部电影的录音指导郭明在很久之后总结道，“看上去韩寒是一个名字，但实际上韩寒代表所有人。”</P>
+<p><img src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" real_src ="http://wx1.sinaimg.cn/large/4701280bgy1fc4budqn8ij21kw11xx77.jpg" ALT="韩寒在拍摄现场看起来总是很轻松"  TITLE="写给那个茶水妹的《乘风破浪》诞生记" /></P>
+<p>&#8203;</P>
+<p><b>理发店隔壁是寿衣店的小镇</B></P>
+<p>
+如果用赖皮一点的方法计算，《乘风破浪》故事的源头可以追溯到很多年以前，久到拍电影还只是韩寒脑子里一个虚无缥缈的幻想，创办电影公司当老板更是完全没影的事儿。那时候韩寒尚且有大把空闲，认识了几个同样“闲功夫比较多”的朋友——都是才毕业没几年，学电影的年轻人——于是常常厮混在一起，吃饭、踢球、打游戏，而只要大家在上海，他总会强烈要求进行一项保留节目，那就是开车带他的朋友们瞎逛。<br />
+</P>
+<p>
+目的地永远是上海周边各种各样的小镇，韩寒兴致勃勃带大家去看老家亭林镇的老雕塑园，雕塑早荒废了，园子里全是疯长的野草；还有他小时候的房子旁边的一个烂尾楼，楼的底部蓄满了雨水，人都可以在里面游泳；早在佘山天坑还没被酒店项目看上以前，他就开车带大家去看过那个大坑……还有各种奇怪的路，奇怪的桥，奇怪的水塘，反正他总能找到一些莫名其妙却怪有趣的地方。起初大家惊讶于他对这些小镇的热情和熟悉程度，接着很快觉得路也有意思，桥也有意思，水塘也有意思。江南小村就像这群年轻人的游乐场，让他们可以自由而漫无目的地行驶在连接一个镇子与另一个镇子的乡村公路上，在车里聊天，聊天，聊天。</P>
+<p>
+回想起来，那可真是段奢侈的好日子。2014年，开始拍第一部电影《后会无期》之后，韩寒的生活节奏迅速从“悠闲”模式调到了“忙碌”模式，当年瞎逛小团伙的成员之一于梦眼看着他从一个“特别爱闲逛的人”变成了一个“没有时间闲逛的人”。几个人再次聚在一起，已经分别成了《后会无期》的制片和摄影。宣传期接近尾声，于梦开始越来多地听韩寒讲起一些零星的新故事片段，几乎无一例外都发生在小镇上。片段渐渐连成一个故事的雏形：几个年轻人在小镇上闲荡，无所事事，“又像收保护费，又像物业的这么几个人”。再下面就到了韩寒在北京国贸大酒店给几个朋友念他的新剧本，抱个电脑，念到开心的地方就把电脑放下站起来开始演。到后来他一站起来所有人就跟着哈哈哈笑，总共念了两个多小时。时间已经很晚，酒店窗外是北京最繁华的马路，灯火闪耀，川流不息。</P>
+<p>
+后来韩寒邀请邓超出演的时候也表演了剧本，也是两个多小时，在邓超北京的办公室，中途没有喝水，还经常停下来拿出手机播放他想象中某个场景的背景音乐。</P>
+<p>韩寒很快做了两个决定。第一，要在已经对外公布的《天空制造》和《三重门》之间“插个票”。第二，要快速地拍完《乘风破浪》。</P>
+<p>
+从2015年开始，他沉浸在仿佛没有尽头的公司事务中。“有的时候擅长和不喜欢可以并行，”他说，“就是你擅长做自己不喜欢的事情，虽然比较悲催。”真正能令人兴奋的是创作，那段时间，他急于从无到有去创造什么全新的东西。</P>
+<p>
+去年，摄影指导程马志远还在北京《绝世高手》片场，美术指导王阔刚刚设计制作做完《长城》里的各种机械齿轮，动作指导陈家福正排着电影《中国推销员》的动作戏，副导演张洪伟才从《京城八十一号》剧组下来不到一个月。几乎是同一时间，他们分别接到电话，问，韩寒有一部新戏马上要开拍了，感不感兴趣？</P>
+<p>
+他们跟韩寒一样很快做了决定。程马对于如何用摄影机营造出上世纪90年代的江南小镇氛围充满兴致。看完剧本，他立刻写了一封邮件给小白——《乘风破浪》的剪辑指导，也是当年瞎逛小团伙的另一个核心成员——在信里简单描述了自己的想法。“在我看来现实是充满着遗憾的，电影中它所呈现的现实，我觉得，应该是现实它在理想时候的样子——不打折扣的。”</P>
+<p>
+电影里的“亭林镇”主要由现实中的三个小镇构成：浙江嘉兴的丁栅，江苏常熟的吴市，以及韩寒出生和长大那个真正的亭林镇。丁栅曾经有过颇值得骄傲的繁荣，不过随着年轻人离去，发展也停止了，那里还保存着那种江南明信片里常见的灰瓦灰墙的低矮楼房，精巧漂亮的天井和小桥，窄巷子，旧路灯，一片一片的果园。</P>
+<p>
+当邓超的双脚真正走在电影取景的小镇上，跟他所饰演的赛车手徐太浪一样，他觉得自己好像是穿越了。怎么说呢，那种感觉跟看剧本的时候似乎有相通之处，又好像截然不同。江南的小镇老是有雨。邓超想起，小时候被妈妈罩在雨衣下面闻到的也是这个味道，那时他的视线里只能看到一小块和这里样子差不多的石板路，只看路面材质的变化，就能知道自行车走到了哪儿。邓超奶奶家所在的江西南丰县盛产一种金色的小蜜橘，有一场戏，阿浪跑遍整个小镇急切地想见到自己的妈妈，拍的时候他跑过几棵橘子树，“到那儿我就一下惊着了”，就像3D效果一样，“就从你脚底渲染——哗——一下子又回荡——”，他甚至有一种感觉，好像一回头就能看到奶奶站在身后。“像是一个装置的呼唤，就是你走在那个装置里面，你总得用那个装置，用你身体的那个装置。”这一切都让他对这部电影投入更多感情。</P>
+<p><br /></P>
+<p><img src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" real_src ="http://wx2.sinaimg.cn/large/4701280bgy1fc4ck9d9ddj21kw0zdhdv.jpg" ALT="邓超在丁栅仿佛看到了自己的家乡"  TITLE="写给那个茶水妹的《乘风破浪》诞生记" /></P>
+<p>&#8203;&#8203;</P>
+<p>&nbsp;<wbr>&nbsp;<wbr>&nbsp;<wbr>
+回到几个月前，丁栅和吴市是最难找到的两处外景。勘景是一部电影正式开始运转的第一个步骤，韩寒原本计划在以上海松江为中心、车程一小时的距离范围之内寻找他心目中的小镇。了解他的人会告诉你，韩寒天性不喜欢离家太远。拍《后会无期》的时候，有一个重要场景怎么都找不到合适的，韩寒最后宣称“一定是因为离我家不够近”，把搜索范围缩小到离他住的地方车程15分钟，居然真找到了。</P>
+<p>&nbsp;<wbr>&nbsp;<wbr>&nbsp;<wbr>
+然而，这一回，由程马、王阔、徐征、张洪伟等几个主创组成的勘景小分队没有这种好运气。搜索的车程范围从一个小时，慢慢扩大为一个半小时——好不容易才找到丁栅，然后又到了两个小时——终于发现了吴市。以每天三到四个的速度，他们几乎用脚把上海周边的四十多个小镇丈量一遍，徐征开车，看到“可能有门儿”的地方就停下来，一行人下车进去走。那正是上海一年当中最炎热的时候，喝进喉咙的水变成汗液从体表蒸发，每个人每天看起来都像是被水洗过一样，大家甚至都不怎么上厕所。基本上只有时不时参与勘景的韩寒还保持着活力，毫不焦虑，说话的时候总是很高兴。张洪伟记得很清楚，有一次他们遇到一堵墙，墙的另一边不知道是什么，韩寒非要看看，一个助跑就从墙头翻了过去。他想，真是个神经强悍的人啊。</P>
+<p>
+丁栅是个惊喜。拍阿浪小巷追歹徒那场戏当天，灯光指导王春枝和他的团队提前7个小时到现场，像一支真正的施工队那样给一整条小巷装上路灯，给每间早已无人居住的住宅门廊口安上灯泡。夜幕降临，开关“啪”的打开，废弃的小巷突然被打亮了，已经黑了不知道多少年的几百米路此刻跟一副典型小镇青年打扮的邓超、彭于晏、李淳一道，笼罩在温暖昏黄的光晕下，好像一切原本就是那样似的。如果人的视线可以向上再向上，上升到空中俯瞰，就会发现这巷子的外围几乎是三百六十度地被密密匝匝的电线包围了。</P>
+<p>
+吴市是更大的惊喜，这句话的另一层意思是，找到它是更困难的工作。在2016年的上海周围找到一条看起来像是90年代的、保存完好的、足够宽敞到能够让镜头动起来的小镇长街，这件事光是听起来就够困难了。在经历过找韩寒寻求建议，疯狂上网找上海八九十年代的老照片，向各行各业的朋友问线索，以及到处收集微信公众号上标题为“上海周边最美的XX个地方”的文章几个步骤之后，当吴市主街出现在大家眼前时，所有人都松了一口气。</P>
+<p>
+美术指导王阔带着他的置景团队对那里进行了大改造。路边无主的店铺变成了充满90年代气息的录像厅、游戏厅，小卖部的门牌被换成了“亭林百货”的招牌，实话实说，自从剧组过来之后，他们生意更好了，总能卖出大量的方便面、面包和速溶奶茶。居民楼外墙竖起了一块巨大的“挚爱KTV”霓虹灯，这是故事发生的重要场景之一。事后证明，那块大霓虹灯并没有减弱当地居民们从铁栏杆缝隙里挤着围观明星拍戏的热情。每次要拍这条街道的时候，剧组都会派几个制片部门的场务兄弟提前一晚驻扎到吴市，彻夜不眠守着这些置景，以防止被人破坏或者偷走的万分之一可能性。外联制片毛毛则需要在天刚擦亮的时候就从上海赶来，通过打110和12345查询，联系到街面上停着的所有车辆的车主，请他们在大部队到来之前把车挪走。</P>
+<p><img src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" real_src ="http://wx1.sinaimg.cn/large/4701280bgy1fc4c0oalpaj21kw11xkjo.jpg" ALT="韩寒、程马、张洪伟在小镇勘景"  TITLE="写给那个茶水妹的《乘风破浪》诞生记" /></P>
+<p>&#8203;<br /></P>
+<p>
+相比之下，“找到”真正的亭林镇就容易多了。王阔很高兴终于有了一个不用老跟导演讨价还价的部分。这位美术指导跟韩寒同样年轻，当初刚从上一部电影回到北京，一下飞机就被制片人于梦拦下看了剧本。剧组里的女孩子一致认为他“特别的儒雅”，“特别的温柔”，但这么一个人有时候也不得不跟韩寒讨价还价，因为他碰到了一个比自己更让人难以拒绝的家伙。更可怕的是，要论现场创作的欲望和精力，这人比他合作过的任何一个导演都要旺盛。</P>
+<p>对话经常是这样发生的：</P>
+<p>
+王老师下面那场戏我想改一改，我们需要做个新的场景——时间这么紧有点困难啊——没关系呀，我们只拍一个局部——不行，太冒险了，万一带到呢，这么置景很容易穿帮——我们不会带到的呀——呃……嗯，好的。</P>
+<p>
+“你会发现他经常会变，今天说是这样，可能还没等你把它这样准备好呢，第二天他就变成另一个样子了。但是他态度又特别好……就是非常诚恳地和你说，你就不忍拒绝，只能帮他尽可能去完成他的想法。”</P>
+<p>
+慢慢的王阔有了一个发现，只要一说哪个景选在亭林，导演那边马上就能通过。他笑眯眯地形容，每次说到家乡亭林镇的景，韩寒“眼睛里面就闪烁出一种异样的光芒”。他的爷爷奶奶至今在亭林镇有一块田，他每年回去三十多次，通过做贴在本子上的那种简报来帮助老两口了解外面的世界。</P>
+<p>
+2016年秋天，亭东制作部的剧本开发陈璐事先跟演员、赛车手高华阳一起到亭林镇熟悉环境。又是个雨天，亭林镇的主街湿答答的，街边商铺的主人都是上了年纪的爷爷奶奶。比高华阳更快感受到惊奇的是陈璐。在公司开剧本会的时候，她和同事好几次讨论过为什么导演在吴市置景时一定让面馆挨着浴室，理发店挨着寿衣店；一到亭林镇，她忽然就懂了：这条导演小时候无数次走过的街道上，台球厅的隔壁是“亭林面馆”，“亭林面馆”的隔壁是“大众浴室”，“大众浴室”的隔壁是理发店，而理发店的隔壁，就是寿衣店。雨大了起来，他们跑到一条窄檐下避雨，墙上的窗户突然开了，一个阿姨从里面探出头问：侬要进来切饭伐？</P>
+<p>
+后来高华阳又自己一个人去了一趟亭林镇。去之前，他借来了他在电影里的戏服，穿上身在镇子里闲逛，买东西，攀谈，终于不再觉得自己像个外人。鞋逛破了，前面和后脚跟都磨破了，他找了一家文具店买鞋，只有橱窗里那一双样品，放了不知道多久，表面一层灰，“很脏”、“很丑”，他把它给买了。所以在电影里，六一身上的大部分衣服产自台湾、日本等等远方，但其中有一双小白鞋，它来自现实中的亭林镇。高华阳到现在都记得那天快走的时候有一个老爷爷问他，小伙子侬来亭林多长时间啦？</P>
+<p>
+这是电影的魅力。一群人同心协力帮助一个人，把他心里最宝贵的东西找出来，放大，放大，然后再用它去吸引茫茫人海中更多原本毫不相干的个体，在黑暗的影院中做一场大梦。你得承认，它是种有魔力的事物，就像通往另一个世界的奇幻之旅。</P>
+<p><img src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" real_src ="http://wx4.sinaimg.cn/large/4701280bgy1fc4cmrn9m0j21kw106qv6.jpg" ALT="小镇的窄巷"  TITLE="写给那个茶水妹的《乘风破浪》诞生记" /></P>
+<p><br /></P>
+<p><b>橡胶、汽油和添加剂燃烧的气味</B><br /></P>
+<p>
+&nbsp;<wbr>拍戏时，邓超习惯随身备着一点威士忌，用锡制的小酒壶装着，以便在天气特别冷，或者拍到特别晚的时候好揣进口袋，跟其他几个男人分着喝；自从在剧组认识演反派大哥的李荣浩之后，他常备在房车上的东西又多了一样：李荣浩的歌，就连做采访的时候也要放着当背景音乐。</P>
+<p>
+彭于晏习惯随时备着陈师傅——他在内地的司机，一个地道的老北京人——以便可以随时跟他练一练台词，改一改台湾腔；他同样不会忘记大蒜和台湾香肠，大蒜是自己要吃的，香肠则好几次在拍夜戏的时候及时出现，从妈妈开在上海的餐厅送过来，再让剧组里的水妹把它们炸好，切成飘香诱人的小段，装进纸杯分给大家吃。</P>
+<p>
+高华阳习惯随身备着……呃，好像找不出什么特别可讲的东西，除了他跟别人请教表演、聊哲学、教赛车以及打咏春拳时总是满溢的热情，认真起来会不自觉地瞪大那双带着他角色气质的“六一式”的纯真眼睛，“超哥，我想跟你聊聊。”</P>
+<p>
+董子健爱聊自己喜欢的电影，李荣浩休息的时候会像个真正的“大哥”那样坐在椅子上闭目养神，同样演“坏人”的本煜则老塞着耳机，不太爱说话……总而言之，这几个年龄相仿的男演员个性习惯几乎完全不同，韩寒自己的性格也相当独树一帜。如果说他们因为《乘风破浪》相聚在一起，那么真正将他们联结在一起的或许不止于此，还有别的更有趣、更美妙的东西。</P>
+<p>
+负责投资和演员的制片人李雯雯跟彭于晏方面沟通的时候，跟她对接的不是艺人经纪人，而是“彭先生的文学经理”。在见到彭于晏之前，她跟这位戏剧专业出身的Key女士已经见了两次面，对方跟她聊剧本，并且只跟她聊剧本。那个时候项目还在严格保密阶段，李雯雯下午把纸质剧本拿给Key，Key拿回去晚上看，连夜跟团队开会，第二天见面再讨论。几个来回，她发现彭于晏最在意的问题之一是那段飙车戏如何处理——即使他饰演的“徐正太”并不是职业车手，而是个把好天分遗传给了赛车手儿子的、车开得很快的普通人。</P>
+<p>
+与此同时，演赛车手儿子的邓超也在操心差不多的问题。因为等等跟韩小野念同一所学校，邓超和韩寒的交情大致可以概括为“同学家长”。有那么几次，两个小朋友在一起玩的时候，邓超不大认真地提过想跟韩寒学一学开赛车——之前他请韩寒帮忙为电影《分手大师》客串一个赛车手的角色，韩寒带着自己跑比赛用的车就来了，也没要片酬。邓超记得自己在片场摸了摸那台“真的拉力赛车”，像每个渴望速度与激情的男人那样在心里赞叹：“那么厉害的东西！”</P>
+<p>
+热情，勇敢，激昂，兄弟——在男人的心目中，“赛车”几乎可以代表以上所有仅仅是听起来就令人兴奋的词汇。开拍不久，由斯巴鲁车队的工程师们共同加班加点20多天制造出来的、与韩寒那台冠军之车一模一样的3辆拉力赛车，被他的黄金领航员孙强引着送到了拍摄地。女主角赵丽颖尚未进组，在那几天，这个原本就男性化气质强烈的剧组愈发充斥着令人神经亢奋的味道。</P>
+<p><img src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" real_src ="http://wx3.sinaimg.cn/large/4701280bgy1fc4clpgl5qj21kw11xnpf.jpg" ALT="&#8203;亭林四兄弟"  TITLE="写给那个茶水妹的《乘风破浪》诞生记" /></P>
+<p ALIGN="left"><br /></P>
+<p>
+候场间隙一起在丁栅的小桥流水边打手机NBA游戏（邓超和彭于晏的最爱），在舟山打篮球（剧组里的很多男人都在邓超的带领下加入了这项片场运动），共同跟高华阳学咏春拳（“超哥天赋一般，彭sir超强”），还有半夜收工之后回酒店健身房健身（Key半真半假地跟李雯雯抱怨，看吧，这就是把男主演放在同一个酒店的后果），收工之后，每接一部戏都必须要掌握一项新技能的彭于晏就拉着高华阳培训他开赛车。</P>
+<p ALIGN="left">&nbsp;<wbr>&nbsp;<wbr>&nbsp;<wbr>
+那个夜晚没有好月亮，天马赛车场的灯也已经全部熄灭了。赛车上，彭于晏坐车手位，高华阳坐领航员位，在一块黑黢黢的空地上练习漂移。伸手不见五指的夜幕里他们什么参照物都看不见，车子咆哮着转过一圈，彭于晏用不太确定的声音问，“怎么样，行吗？”“行，再转两圈。”车子再一次咆哮起来，这一次轮到高华阳先开口了，“行了，停吧。”推开车门，这位专业场地赛车手生平第一次在下车之后感到天旋地转，脑袋还特别疼。他隔了好一会儿才意识到发生了什么：作为一个车手，自己居然晕车了。开车的彭于晏也好不到哪儿去。不过这件事也不是没有好处，两个晕车的人都觉得对方特别好、特别宽容，为他们之间友谊的火苗又添了一大把柴。</P>
+<p ALIGN="left">
+包括韩寒在内的三位如假包换的赛车冠军共同合作完成了室外部分的飙车戏。因而，直到整部戏拍完，邓超也没能如愿坐一坐韩寒那辆他摸过的赛车。韩寒这一次太忙了，由于剪辑、特效和声效都前置与拍摄同步进行，他不得不在片场、宾馆和家之间连轴转。不过，电影还没拍完，邓超就宣布，明年一定要去把赛车执照给考出来。</P>
+<p ALIGN="left">
+电影拍摄期间，声音指导郭明是坐上过韩寒那辆冠军赛车的剧组人之一——他用“要录下赛车奔驰的真实声音用于后期声效合成”这样的理由合情合理地获得了机会。直到现在，提起那天的经历，他脱口而出的第一个词是
+“我操”，第二个是“那个太刺激了”。首先给人冲击的其实是气味：一种橡胶、汽油和添加剂混在一起熊熊燃烧的气味，非常强烈，潮水般一浪接一浪朝你扑面而来。你的肾上腺激素还来不及反应就被刺激得一路飙升，头脑发热，感到这车必须要“往前冲”，“往起轰”，这就是它之所以存在的原因，是它的无可替代的职责。郭明戴好耳机，抱着10多公斤重的录音器材包坐进车里，绑上了六点式安全带。起初，他像坐普通汽车那般放松，看着韩寒发动，起步，进入第一个弯道——没有减速，油门被一脚踩死——他感到自己被关进了一只密闭的瓶子，“咯啷咯啷咯啷”，被人拿在手里丧心病狂地晃啊晃啊晃啊，感到自己的脑袋不断撞上座椅又被座椅弹回来，手里抱着的录音机差一点就要飞出去了——不不不不，这可不行。他用尽全身肌肉的力量绷直了身体。</P>
+<p ALIGN="left">
+郭明自己也是汽车和机械爱好者，回去之后，他建议韩寒在后期特效制作中加强赛车部分的抖动感，就像好莱坞大片经常做的那样，好让观众更接近他那天感受到的一切。韩寒拒绝了这个提议。“他不希望有这种抖动，因为对于他来讲（也就是说对于主角徐太浪来讲），车是很平静的。”出于同一类缘由，韩寒还因为“离弯心稍微远了一点”“这个弯过得不够好”之类的原因毙掉了许多烟尘滚滚、看起来冲击力极强的酷炫镜头，转而替换成他认为足够专业合格的那一些。声音是跟气味最为相像的感觉，郭明用了风声、车轮与地面摩擦的声音、飞沙碎石高速划过车身的声音以及发动机的声音四层来传达那个冲击他肾上腺素的味道。他很高兴自己那天提出要上那台车。</P>
+<p><img src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" real_src ="http://wx4.sinaimg.cn/large/4701280bgy1fc4c3ygh48j21kw11x1kx.jpg" ALT="韩寒指导车戏"  TITLE="写给那个茶水妹的《乘风破浪》诞生记" /></P>
+<p ALIGN="left">&#8203;&#8203;<br /></P>
+<p ALIGN="left"><br /></P>
+<p>&nbsp;<wbr>&nbsp;<wbr>&nbsp;<wbr>&nbsp;<wbr>
+坐过同一台车的男人是真正的好兄弟。拍撞火车的飞车戏那天，领航员孙强即将开着赛车，从一个两米多的高台飞跃而下。韩寒一个人坐在角落，罕见地不跟任何人说话，孙强的车一落地就飞快地冲了过去。这是人们记忆中韩寒唯一的一次不开心。B机的掌机马川一直记得那一幕。他觉得特别感动和亲切，真实与虚幻交织，那种兄弟之间的感情，跟电影的故事里是一样的。</P>
+<p ALIGN="left">&nbsp;<wbr>&nbsp;<wbr>&nbsp;<wbr>&nbsp;<wbr>
+在剧组里，邓超常常是喜欢照顾别人，愿意牵头带领大家一起做点什么的那一个，大家都管他叫“超哥”。天气转冷，他会提前在自己的房车上备好肉、菜和锅底，在放饭的时候招呼其他几个兄弟过来涮火锅。房车里播放着摇滚乐，邓超、本煜和高华阳从窦唯开始聊，酒杯一次一次空了，又被一次一次加满。彭于晏不怎么喝酒，一直埋头苦吃，听到有趣的东西就抬起头来，露出他招牌式的天真笑容和一口大白牙，“诶！这个有意思诶！”韩寒半途也蹦了上来，端一只一次性纸杯，捞锅里的肉吃。暖黄色的灯光混着火锅的氤氲雾气从敞开的车门透出来，空气好像都变得暖和了一点。司机们聚在车门口边吃边笑，议论说月初拍的那场四兄弟天台吃火锅的戏跟今天的场面真像啊，也打一百块钱的无聊的赌：都吃美了，那么今天夜里几点能收工呢？</P>
+<p ALIGN="left">
+作为剧组唯一的女性主演，赵丽颖以两年11部电视剧的速度成长起来，早已觉得自己是个“汉子”，她说女生更需要独立、变强大，“要不然你无法生存”。但进入这个真正男性气质浓郁的剧组，她终于可以放心地放松下来，不用再一直努着劲儿。“我觉得跟着他们走，一定没有问题。我也想让他们带带我，学到一些新的东西。”她并非那种容易迅速跟人打成一片的讨巧个性，不过有时候，在某个特定的场域当中，你得相信人与人之间奇妙的化学反应。《乘风破浪》就是这样的场域。女主角进组的第一场大场面戏是在电影院，正太向小花求婚，毫无预兆也没有提前商量，彭于晏在镜头下一下子把赵丽颖抱了起来，快乐地旋转。她一开始吓死了，感觉自己“头发都要飞出去了”，“整个人都是眩晕的”，“那时候觉得自己都要支离破碎了”，然后莫名其妙地，彼此就有了默契。</P>
+<p><img src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" real_src ="http://wx4.sinaimg.cn/large/4701280bgy1fc4cpobk09j21kw11xe83.jpg" ALT="&#8203;电影院求婚"  TITLE="写给那个茶水妹的《乘风破浪》诞生记" /></P>
+<p ALIGN="left">&#8203;<br /></P>
+<p ALIGN="left"><br /></P>
+<p ALIGN="left">&nbsp;<wbr>
+&nbsp;<wbr>&nbsp;<wbr>到了拍摄婚礼那天，她和邓超、彭于晏已经非常熟悉，音乐一响起来就在舞台上自然而然地玩在了一起。舞台中央挂着大红“囍”字，摄影机沿着半圆形的轨道缓缓移动，剧组工作人员们拿着那种能喷出彩色纸屑的礼花挤挤挨挨围在舞台周围，摄影机划过半圈，礼花就炸响一轮。所有人的脸上都洋溢着笑容。一切都很欢乐，美好到近乎难以置信，就像参加一场真正的婚礼。在那一刻，赵丽颖就是小花，彭于晏就是正太，他们在欢乐的人群中手拉着手跳舞，庆祝一对青梅竹马的情侣人生中最美好的一晚。阿浪站在旁边，又悲伤又快乐地为他们唱歌，一首阿浪写给正太这个男子汉的歌，《男子汉宣言》。</P>
+<p ALIGN="left">&nbsp;<wbr>&nbsp;<wbr>&nbsp;<wbr>&nbsp;<wbr>
+阿浪很感动。邓超也很感动。那种感动既属于虚构的徐太浪，同时也完全没有减弱能量地，属于真实的邓超本人。</P>
+<p ALIGN="left">&nbsp;<wbr>&nbsp;<wbr>&nbsp;<wbr>
+这件事情一直被邓超藏在心里。事实上，拍这部电影的过程中，他无数次想到自己的父母，以至于有些时候会恍惚，在彭于晏和赵丽颖对戏的过程中看到了自己父母的影子。“彭Sir都不知道我每天看的时候我对他的那个爱……我自己有的时候是会跑题的，演深入的时候，有的时候那个东西会共存一下，就是它在某一点会突然——”突然“叮”一声打开了某道门，“他跟她，跟小花的那个东西交织得，经常让你‘哗’——恍惚一下，‘哗’——又恍惚一下。”这种时候，演员邓超就会跳出来跟自己说，克制，把它打掉，现在你是阿浪，不是邓超，邓超是不准确的。</P>
+<p ALIGN="left">
+挚爱KTV，泪在眼眶的一场哭戏，邓超演得全场都静了。演对手戏的赵丽颖最先感知到他的情绪，“我觉得心里非常感动。所以走出去的时候，就很想让超哥看到我，让他看到我的笑脸。但他看到的可能远不止是一个笑脸，而是对妈妈的一种爱，一种依恋。是那样一种感情。”高华阳那天留在现场等邓超吃火锅，那个镜头一关机，他就走过去蹲在邓超面前哭了。那天晚上他们聊了很久，周围30个群演姑娘穿着白裙子闹哄哄地走戏，他们就陷在KTV的那张红沙发里，旁若无人，一边喝酒一边小声讲很多的话。久到韩寒从导演棚来到现场跟他说话的时候（彭于晏、赵丽颖都已经收工了），邓超直接截断了他，“不用管我，我就喜欢待在这儿，I
+love you!”</P>
+<p ALIGN="left">
+杀青好多天之后，邓超做了一个梦。他同时梦到了彭于晏和自己的父亲，三个人困在一场巨大的海啸当中。他拼命往高楼上跑，潮水一直在身后撵着他，眼看着那楼一层，一层，一层，接连不断地被海水淹没了。他心急如焚，只想着怎么救人。浪头扑到最高层，突然毫无预兆地停了下来。然后一晚上，消退过去。三个人都没事。太真实了——他惊醒，第一反应是拉开窗帘，看看这个城市还在不在。窗外阳光很好，他想起来，自己正在妻子孙俪的剧组探班，而《乘风破浪》早已经拍完。或许这就是好电影之于好演员的意义之一：让你更深入地发现自己。</P>
+<p><img src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" real_src ="http://wx3.sinaimg.cn/large/4701280bgy1fc4c4o66cxj21kw11xe85.jpg" ALT="&#8203;KTV那场戏，邓超演得全场都静了"  TITLE="写给那个茶水妹的《乘风破浪》诞生记" /></P>
+<p ALIGN="left"><br /></P>
+<p><b>导演感冒了</B></P>
+<p>导演感冒了，并且已经持续了一个多月。</P>
+<p>
+罪魁祸首是10月份的一场寒流，它在电影开拍几个星期之后猝不及防地袭击了上海。服装组的女孩苏超当天就换上了雪地靴，帮彭于晏整理戏服的时候还被他调侃，这么早就穿雪鞋了啊？结果第二天到片场，彭于晏自己也裹上了羽绒服。而那些反应不够迅速，或者是不得不一整天待在室外的人们则纷纷中招，患了感冒。茶水妹夏丹丹把夏天的蜂蜜柚子茶换成了板蓝根，每当摄影机一关，她就立刻抱着那只塑料大壶和一摞纸杯跑到现场，强迫她能看到的每个人都必须喝一点。</P>
+<p>
+从那场寒流开始，天气对这个剧组就一直不怎么友好（有人开玩笑说是电影名字没起好，又是“风”又是“浪”的）。先是突然冷了起来，持续阴天，铅灰色弥漫天空，让人分不清是云还是霾。服装组只好火急火燎地去买了一堆优衣库号称可以发热的秋裤，全部剪到膝盖以上那么短，好让演员们能套在短裤下面保暖又不至于穿帮。</P>
+<p>
+而当导演助理刘燕娇看着裹在那件从《后会无期》时就被大家广泛吐槽的咸菜色羽绒服里，只要一到片场就高高兴兴的韩寒的时候，老是忍不住在心里感叹，这个人怎么能这么淡定呢。他的感冒还没好，导演棚里跟他同时期感冒的程马、张洪伟、场记薛舟漪和现场剪辑阿杰都陆续好了，他还是老不好。或许是因为每天拍摄结束之后他还要回宾馆跟小白和郭明一起做剪辑和声音，几乎要到凌晨才能回家；又或许是因为每天早上去现场的车上，他都习惯于把当天要拍摄的所有台词重新写一遍而不能在路上睡觉，没办法，新鲜的点子总是争先恐后冒出来，他做不到对它们置之不理。总之，韩寒总是没什么时间好好休息。</P>
+<p>
+但是这好像丝毫不影响他的心情。似乎任何事情在他看来都是可以解决的——事实上，在剧组的人乃至他自己的眼中，他的确有这个本领。那段时间刘燕娇每天会给导演准备一些水果，大多是柚子、橘子，有一天她换了车厘子放在监视器旁边，导演看着拍摄画面忽然朝这盒水果一转头，“哎呀，这个好，我怎么没看到！隐隐约约看到这边有紫光，紫气东来的感觉！”那种快乐非常真诚，又莫名奇妙，让原本跟外面的天色一样沉闷的导演棚也高兴了一盒车厘子的时间。不过那几天，恐怕只有坐在导演身后的灯光指导王春枝能从心底里真正分享他毫不焦虑的情绪。灯光组为90年代小镇氛围设计的布光方案原本就需要遮挡太阳，“结果我们看赶上阴天，其实还挺好，歪打正着，”他用买彩票不小心中了个小奖的语气说，“我们是不怕阴天，然后也不怕晴天，我们就怕下雨。”</P>
+<p>很不幸，雨马上就来了。</P>
+<p>
+从11月的一天开始，上海开始连绵不断且毫无规律地下雨。统筹乙力最为信任的中央气象台天气预报，这回也一而再、再而三地搞错。大体上，只要剧组要拍外景，这一天八成以上都是有雨。王春枝苦着脸嘱咐灯光组随时带着给灯光设备遮雨的巨大雨伞，并且给所有接头和电线都缠上了保鲜膜。</P>
+<p><img src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" real_src ="http://wx1.sinaimg.cn/large/4701280bgy1fc4c5f8f1vj21kw11xx6t.jpg" ALT="&#8203;雨中拍摄"  TITLE="写给那个茶水妹的《乘风破浪》诞生记" /></P>
+<p><br /></P>
+<p>
+经历太多次被雨打断的拍摄之后，韩寒决定变被动为主动。之前，事情往往是靠一些“特别韩寒”的、不是办法的办法解决的。比如在丁栅拍邓超、彭于晏和高华阳天台对手戏的那次，彭于晏一到现场就看着阴沉沉的天气意味深长地对韩寒说，有风有浪，乘风破浪。果然，拍了一个多小时，雨下了起来。最开始还是小小的毛茸茸的，邓超于是开始在天台上表演“做法挪雨”——“一分四十秒必停！”效果是，一分多钟以后，天黑得像傍晚，雨大得完全没法拍了。大家集体撤回了搭在楼下的导演棚，韩寒让现场剪辑阿杰把刚刚天光骤降时拍的最后一个镜头调出来，问他，我们正好需要一个这里黎明时候的镜头，怎么样，这个像不像？</P>
+<p>
+&nbsp;<wbr>两天之后，吴市外景。韩寒从他那辆从《后会无期》用到《乘风破浪》的大众T5里下来，看到天色，果断把副导演张洪伟叫过来，宣布原定的拍摄计划取消。所有人原地等待半个多小时之后，韩寒重新从T5里下来，从从容容开始调配现场，安排演员走位，临场发挥，加了一场阿浪、正太和六一在的室内戏。</P>
+<p>
+刘燕娇没见过韩寒为任何意外的阻力沮丧，“别的导演早就现场开骂，生气发火，”隔了很久，她说起来还是一脸不可置信，“他还挺高兴，觉得自己太机智了，就觉得效果挺好，特别美滋滋的。”剧情设定是打牌，邓超的角色阿浪迅速在这种智力游戏里获得胜利。两条拍过，韩寒临时起意，拿起对讲机喊，哎，你们真打牌呗，看看你们谁厉害。然后他坐在监视器面前，迅速地投入到了自己制造的游戏中，“炸，炸”，“看来2在邓超那里啊”。导演棚搭在外表被改造成90年代游戏厅的空屋内，与录像厅只隔一层窗玻璃。韩寒感冒没好，一边说，一边笑，一边咳嗽。窗户那边立刻传来邓超的抗议，“不要报牌！”摄影机就在一旁静悄悄地开着。这是乙力喜欢参与韩寒电影的原因之一：即便是他们这些读过不知道多少遍剧本的工作人员，也依旧会对成片里到底有些什么感到充满好奇。“很期待这个电影的上映，是因为你不知道它结果是什么样的。”</P>
+<p>&#8203;感冒并不能影响韩寒在现场的好心情</P>
+<p><img src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" real_src ="http://wx3.sinaimg.cn/large/4701280bgy1fc4cfx5wkvj21kw11x7wn.jpg" ALT="韩寒在雨天现场发挥加的四兄弟打牌戏"  TITLE="写给那个茶水妹的《乘风破浪》诞生记" /></P>
+<p>&#8203;</P>
+<p><b>江湖儿女江湖老</B></P>
+<p>
+随着12月的到来，剧组人的常见症状——一种让人浑身痒痒的、慵懒的感觉，姑且把它叫做“流动症候群”好了——似乎正越来越明显地在《乘风破浪》剧组传播蔓延。许多人开始思考：下一个剧组在哪儿呢？</P>
+<p>
+突然间，电影好像已经要拍完了。当然，还没有真的拍完，B组的航拍小飞机刚启用两天，C组那条金毛狗也还有不少戏份，但A组的主要演员已经陆续开始杀青了。几乎每天都有人被派去买花，导演总是叮嘱燕娇事先把花藏好，给要杀青的人一个惊喜，不过好像全组的人都突然有了预知能力，知道谁会在什么地点、甚至什么钟点收到花。每个人都陷入了行将告别的氛围里。</P>
+<p>
+这些剧组人都还记得《乘风破浪》开拍的时候，他们是如何拖着装有从最热的夏天到最冷的冬天衣服的巨大行李箱，像一条又一条小溪一样，从四面八方流动而来，在上海郊区的这家速8酒店汇集到一起。尽管房间基本上是一个只用来睡觉的地方，但大部分人——尤其是姑娘们——还是会像布置自己的新家那样，先买一套崭新的枕套、被单和床单，替换掉酒店单人床惨白的那一套。其他东西是慢慢积攒起来的，从晾衣杆，到热水壶，甚至洗洁精和桂花酒……路过酒店前台的时候，你永远能看到堆成小山那么多的快递包裹。他们在一个地方只停留一段时间，一旦这部电影拍好就离开，去寻找等待他们为之工作的下一部电影。</P>
+<p>因为流动性，在剧组里收获的友谊愈发珍贵。总有幸运的人会碰到美妙的故事。</P>
+<p>
+茶水妹是超级幸运的人，这一次她碰到了两个。第一个故事关于彭于晏——三年前彭于晏在她第一次做茶水的《黄飞鸿》剧组搭手帮她搬过一次桌子，从那以后，他就成了她留在这行的理由。那之后的每一年，她都能神奇地在自己工作的剧组遇到他，有时他是主演，有时是客串。今年夏天答应制片主任来《乘风破浪》的时候，她原本怀着悲伤的心情给彭于晏发了一条微博私信，“我要去韩寒导演的戏了，今年可能见不到你了”。结果开机没两天，彭于晏就出现在了片场，戴着中分假发，在她看来宛如神兵天降。第二个故事关于她参与的上一部戏，她在里面认识了这两年最投缘的朋友，两个做场记的女孩，她们在其中一个女孩生日当天喝光了剧组里所有的酒。进《乘风破浪》剧组、到速8办理入住的第一天，她无意中听人说起，场记女孩们也来了。她至今记得那一刻是多么的令人快乐，她在酒店的楼梯上上下下地奔跑，大声叫着好朋友们的名字，最后以差点跟她们撞在一起为结局完美完成了汇合。三个女孩如愿住进了同一个房间，并且在拍摄过程中达成了一个共识：如果以后韩寒导演的戏再找到她们，哪怕正在其他戏上，她们也愿意来。</P>
+<p>
+更多人之间并没有留下联系方式。外联制片毛毛始终记得在丁栅的一个晚上，他跟灯光组的一个灯光师一起去布灯，对方看他楞得哆哆嗦嗦，脱下了自己的羽绒服，说你穿走。那个灯光师总是戴着一块花头巾，毛毛不知道他叫什么名字。如果毛毛能看到这里的话——灯光师的名字叫做国平。</P>
+<p>
+大部分基层的剧组人是半路出家，并不认为自己在做着不可替代的工作，即使是做到副导演和统筹，也会告诉你当初他们选择入行是出于“很现实的原因”，而选择坚持下来是因为“不知道还能做什么别的事情”。然而不只是这样。如果你在现场见过常务和武行的两个同样年轻的男孩，为了“这个置景里的地刚打好蜡为了拍摄效果不能进”和“我们一定要实景排练为了拍摄效果必须进”而吵得不可开交，你就会感觉得到，事情一定不只是这样。很难说清楚到底是什么东西，让他们看起来不一样。</P>
+<p>
+12月13日，最后一场戏在吴市杀青，连续出了好几天大太阳的天空又飘起了雨。许多人已经提前订好了当天下午的票，甚至来不及好好道别。当天晚上，尚未离开的一部分人相约去唱KTV，席间有人点了一首刘家昌的《在雨中》——在拍摄现场听过无数遍的《乘风破浪》的定档曲。唱到一半，点歌的男孩就着间奏，突然开始对着话筒大声地叫喊电影主角们的名字，“徐太浪！徐正太！……”，“徐太浪！徐正太！……”接着，出乎预料地，我听见有人跟他共同喊了起来。</P>
+<p>不会错了，就是这样的时刻。我清晰地听见，每个人做过的每一个梦都会在他的生命中留下几个名字。</P>
+<p><img src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" real_src ="http://wx1.sinaimg.cn/large/4701280bgy1fc4cgxkhi3j21kw11xhe8.jpg" ALT="&#8203;剧组人和导演在小镇"  TITLE="写给那个茶水妹的《乘风破浪》诞生记" /></P>
+<p><br /></P>
+<p><img src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" real_src ="http://wx4.sinaimg.cn/large/4701280bgy1fc4ch81xyoj20zk0msh2k.jpg" ALT="&#8203;12月13日杀青大合照"  TITLE="写给那个茶水妹的《乘风破浪》诞生记" /></P>
+<p><br /></P>							
+		</div>
+						<!-- 正文结束 -->
+		<div id='share' class="shareUp">
+        	<div class="share SG_txtb">
+			分享： 
+			<div class="bshare-custom" style="display:inline;margin-left:5px;"><a title="分享到新浪微博" class="bshare-sinaminiblog" href="javascript:void(0);"></a><a title="分享到微信" class="bshare-weixin" href="javascript:void(0);"></a><a title="分享到QQ空间" class="bshare-qzone" href="javascript:void(0);"></a><a title="分享到豆瓣" class="bshare-douban" href="javascript:void(0);"></a><a title="更多平台" class="bshare-more bshare-more-icon more-style-addthis"></a>
+			</div>
+			</div>
+            <div class="up">
+	        	<div title="喜欢后让更多人看到" id="dbox_4701280b0102wruo" class="upBox upBox_click" style="cursor: pointer;">
+	            	<p ti_title="写给那个茶水妹的《乘风破浪》诞生记" id="dbox2_4701280b0102wruo" class="count" ></p>
+	                <p class="link"><img width="15" height="15" align="absmiddle" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" class="SG_icon SG_icon34">喜欢</p>
+	            </div>
+<!--
+                <div class="upBox upBox_add">
+                    <p class="count">0</p>
+                    <p class="link"><img width="20" height="16" align="absmiddle" title="推荐" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" class="SG_icon SG_icon214">赠金笔</p>
+                </div>
+-->
+                                <div class="upBox upBox_add">
+                    <p class="count" id="goldPan-num">0</p>
+                    <p class="link" id="goldPan-give"><img class="SG_icon SG_icon214" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="20" height="16" title="赠金笔" align="absmiddle">赠金笔</p>
+                </div>
+                
+	        </div>
+            <div class="clearit"></div>
+		</div>
+		<div class="articalInfo">
+			<!-- 分享到微博 {$t_blog} -->
+			<div class="IL">
+				阅读<span id="r_4701280b0102wruo" class="SG_txtb"></span><em class="SG_txtb">┊</em> 
+				<a href="#commonComment">评论</a> <span id="c_4701280b0102wruo" class="SG_txtb"></span><em class="SG_txtb">┊</em>				<a href="javascript:;" onclick="$articleManage('4701280b0102wruo',5);return false;">收藏</a><span id="f_4701280b0102wruo"  class="SG_txtb"></span>
+				<em class="SG_txtb">┊</em><a href="#" id="quote_set_sign" onclick="return false ;">转载</a><a  href="#" id="z_4701280b0102wruo" onclick="return false ;" class="zznum"></a>				<span id="fn_写给那个茶水妹的《乘风破浪》诞生记" class="SG_txtb"></span><em class="SG_txtb">┊</em>
+				<a onclick="return false;" href="javascript:;" ><cite id="d1_digg_4701280b0102wruo">喜欢</cite></a><a id="d1_digg_down_4701280b0102wruo" href="javascript:;" ><b>▼</b></a>
+									<em class="SG_txtb">┊</em><a href="http://blog.sina.com.cn/main_v5/ria/print.html?blog_id=blog_4701280b0102wruo" target="_blank">打印</a><em class="SG_txtb">┊</em><a id="q_4701280b0102wruo" onclick="report('4701280b0102wruo');return false;" href="#">举报</a>
+											</div>
+			<div class="IR">
+				<table>
+					<tr>
+											<th class="SG_txtb" scope="row">已投稿到：</th>
+						<td>
+							<div class="IR_list">
+								<span><img class="SG_icon SG_icon36" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" title="排行榜" align="absmiddle" /> <a href="http://blog.sina.com.cn/lm/114/117/day.html" class="SG_linkb" target="_blank">排行榜</a></span>							</div>
+						</td>
+										</tr>
+									</table>
+			</div>
+		</div>
+		<div class="clearit"></div>
+		<div class="blogzz_zzlist borderc" id="blog_quote" style="display:none">加载中，请稍候......</div>
+		<div class="articalfrontback SG_j_linedot1 clearfix" id="new_nextprev_4701280b0102wruo">
+							<div><span class="SG_txtb">前一篇：</span><a href="http://blog.sina.com.cn/s/blog_4701280b0102eohi.html">.</a></div>
+										<div><span class="SG_txtb">后一篇：</span><a href="http://blog.sina.com.cn/s/blog_4701280b0102wrup.html">写给那个茶水妹的《乘风破浪》诞生记</a></div>
+					</div>
+		<div class="clearit"></div>
+							
+		<div id="loginFollow"></div>
+				<div class="allComm">
+			<div  class="allCommTit" >
+				<div class="SG_floatL">
+				    <strong>评论</strong>
+				    <span id="commAd_1" style="display:none;">
+				        <span style="margin-left:15px; width:220px; display:inline-block;"><a target="_blank" href="http://blog.sina.com.cn/lm/8/2009/0325/105340.html">重要提示：警惕虚假中奖信息</a></span>
+				    </span>
+				</div>
+				<div class="SG_floatR"><a class="CP_a_fuc" href="#post">[<cite>发评论</cite>]</a></div>
+			</div>
+			<ul id="article_comment_list" class="SG_cmp_revert"><!-- 循环始 --><li>评论加载中，请稍候...</li><!-- 循环终  --></ul>
+			<div class="clearit"></div>
+			<div class="myCommPages SG_j_linedot1">
+				<div class="SG_page" id="commentPaging" style="display:none;">
+					<ul class="SG_pages">
+					</ul>
+				</div>
+				<div class="clearit"></div>
+			</div>
+			<a name="post"></a>
+			<div class="writeComm">
+				<div class="allCommTit">
+					<div class="SG_floatL">
+					    <strong>发评论</strong>
+					    <span></span>
+					</div>
+					<div class="SG_floatR"></div>
+				</div>
+				<div class="wrCommTit">
+					<div class="SG_floatL" id="commentNick" style="display:none;"></div>
+				</div>
+				<div class="formTextarea">
+					<div style="float:left;" id="commonComment">
+					<iframe id="postCommentIframe"  frameborder="0" style="border:1px solid #C7C7C7;
+		height:158px;width:448px;maring-top:1px;background-color:white;" src="http://blog.sina.com.cn/main_v5/ria/blank2.html"></iframe>
+					<textarea id="commentArea" tabindex="1" style="display:none;"></textarea>
+					</div>
+					<div id="mobileComment" style="float:left;display:none;">
+						<textarea id="mbCommentTa" style="width:438px;height:150px;border:1px solid #C7C7C7;line-height:18px;padding:5px;"></textarea>
+					</div>
+					<div class="faceblk" id="faceWrap">
+						<div id="smilesSortShow" class="faceline1">
+						</div>
+						<ul id="smilesRecommended" class="faceline01"></ul>
+					</div>
+					<div class="clearit"></div>
+				</div>
+				<div class="formLogin">
+					<div class="SG_floatL"> 
+					<p id="commentlogin" style="display:none;"><span>登录名：</span><input type="text" style="width: 115px;" id="login_name" tabindex="2"/>   <span>密码：</span><input type="password" style="width: 115px;" id="login_pass" tabindex="3"/>   <a href="http://login.sina.com.cn/getpass.html" target="_blank">找回密码</a>   <a href="http://login.sina.com.cn/signup/signup.php?entry=blog&src=blogicp&srcuid=1191258123" target="_blank">注册</a>	<input type="checkbox" id="login_remember"/><label for="login_remember" style="display:inline-block;" title="建议在网吧/公用电脑上取消该选项">记住登录状态</label></p><p id="commentloginM" style="display:none;"><span>昵&nbsp;&nbsp;&nbsp;称：</span><input type="text" style="width: 115px;" id="comment_anonyous"  value="新浪网友"/ tabindex="2" disabled></p><p id="quote_comment_p"><input type="checkbox" id="bb"> <label for="bb"><img height="18" align="absmiddle" width="18" title="" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" class="SG_icon SG_icon110">分享到微博 <img height="15" align="absmiddle" width="15" title="新" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" class="SG_icon SG_icon11"></label>&nbsp;&nbsp;&nbsp;<input type="checkbox" id="cbCommentQuote" /><label for="cbCommentQuote">评论并转载此博文</label><img class="SG_icon SG_icon11" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" title="新" align="absmiddle" /></p>
+					<p id="geetest-box" ></p>
+					</div>
+
+					<span style="display: none; color: rgb(153, 153, 153); margin-left: 10px;" id="login_remember_caution"></span>
+
+											<div class="SG_floatR" id="anonymity_cont"><input type="checkbox" id="anonymity"/><label for="anonymity">匿名评论</label></div>
+									</div>
+				<div class="formBtn">
+					<a href="javascript:;" onclick="return false;" class="SG_aBtn" tabindex="5"><cite id="postcommentid">发评论</cite></a>
+					<p class="SG_txtc">以上网友发言只代表其个人观点，不代表新浪网的观点或立场。</p>
+				</div>
+			</div>
+		</div>
+				<div class="clearit"></div>
+		
+				<div class="articalfrontback articalfrontback2 clearfix">
+						  <div class="SG_floatL"><span class="SG_txtb">&lt;&nbsp;前一篇</span><a href="http://blog.sina.com.cn/s/blog_4701280b0102eohi.html">.</a></div>
+									  <div class="SG_floatR"><span class="SG_txtb">后一篇&nbsp;&gt;</span><a href="http://blog.sina.com.cn/s/blog_4701280b0102wrup.html">写给那个茶水妹的《乘风破浪》诞生记</a></div>
+					</div>
+		<div class="clearit"></div>
+				
+	</div>
+	<!--博文正文 end -->
+		<script type="text/javascript">
+			var voteid="";
+		</script>
+
+            </div>       
+            <div class="SG_connFoot"></div>
+          </div>
+</div>
+	<!--第二列start-->
+	
+	<!--第三列start-->
+	<div id="column_3" class="SG_colWnone"><div style="width:0px;height:0.1px;margin:0px;">&nbsp;&nbsp;</div></div>
+	<!--第三列end-->
+
+	
+    </div>
+   <!--主题内容结束 -->
+  
+
+	<div id="diggerFla" style="position:absolute;left:0px;top:0px;width:0px"></div>
+    <div class="sinablogfooter" id="sinablogfooter"  style="position:relative;">
+      
+      <p class="SG_linka"><a href="http://help.sina.com.cn/index.php?s=askquestion&a=view" target="_blank">新浪BLOG意见反馈留言板</a>　<a href="javascript:;" onclick="window.open ('http://control.blog.sina.com.cn/admin/advice/impeach.php?url=http%3A//blog.sina.com.cn/s/blog_4cf7b4ec0100eudp.html%3Ftj%3D1', '','height=495, width=510, top=0, left=0, toolbar=no, menubar=no, scrollbars=no, resizable=no,location=n o, status=no');">不良信息反馈</a>　电话：4006900000 提示音后按1键（按当地市话标准计费）　欢迎批评指正</p>
+   
+      <p class="SG_linka"><a href="http://corp.sina.com.cn/chn/" target="_blank">新浪简介</a> | <a href="http://corp.sina.com.cn/eng/" target="_blank">About Sina</a> | <a href="http://emarketing.sina.com.cn/" target="_blank">广告服务</a> | <a href="http://www.sina.com.cn/contactus.html" target="_blank">联系我们</a> | <a href="http://corp.sina.com.cn/chn/sina_job.html" target="_blank">招聘信息</a> | <a href="http://www.sina.com.cn/intro/lawfirm.shtml" target="_blank">网站律师</a> | <a href="http://english.sina.com" target="_blank">SINA English</a> | <a href="http://members.sina.com.cn/apply/" target="_blank">会员注册</a> | <a href="http://help.sina.com.cn/" target="_blank">产品答疑</a> </p>
+      <p class="copyright SG_linka"> Copyright &copy; 1996 - 2017 SINA Corporation,  All Rights Reserved</p>
+      <p class="SG_linka"> 新浪公司 <a href="http://www.sina.com.cn/intro/copyright.shtml" target="_blank">版权所有</a></p>
+	  <a href="http://www.bj.cyberpolice.cn/index.jsp"  target="_blank" class="gab_link"></a>
+    </div>
+  </div>
+</div>
+<div id="swfbox"></div>
+<script id="PVCOUNTER_FORIE" type="text/javascript"></script>
+</body>
+<script type="text/javascript">
+var scope = {
+    $newTray : 1,
+    $setDomain : true,
+    $uid : "1191258123",
+    $PRODUCT_NAME : "blog7",      //blog7photo,blog7icp
+    $pageid : "article",
+    $key :  "fb3627d6695dd5e46aa10213c88f3107",
+    $uhost : "twocold",
+    $ownerWTtype :"0",
+    $private: {"cms":0,"hidecms":0,"blogsize":0,"ad":1,"sms":0,"adver":0,"tj":1,"p4p":0,"spamcms":1,"topblogid":0,"pageset":0,"invitationset":0,"top":0,"t_sina":1191258123,"oauth_token":"","oauth_token_secret":"","uname":"\u97e9\u5bd2","p_push_t":1,"p_get_t":1,"uid":1191258123,"unbind":"1"},
+    $summary: "...  (来自 @头条博客)",
+    $is_photo_vip:0,
+		 $nClass:0,
+		 $articleid:"4701280b0102wruo",
+		 $sort_id:117,
+		 $cate_id:"",
+		 $isCommentAllow:0,
+		 $album_pic:"",
+		 $pn_x_rank:65536,
+		 $x_quote_c:"16",
+		 $flag2008:"",
+		     component_lists:{"2":{"size":730,"list":[920]},"1":{"size":210,"list":[901,946,903,904]}},
+    formatInfo:1,
+    UserPic:[{"pid":"4701280bxc88636eb3de3","repeat":"no-repeat","align-h":"center","align-v":"top","apply":"1"},{"pid":"","repeat":"repeat-x","align-h":"center","align-v":"top","apply":"0"},{"pid":"4701280bxc8863752010b","repeat":"no-repeat","align-h":"center","align-v":"top","apply":"1"}],
+    UserBabyPic:{"photoX":0,"photoY":0,"photoURL":null,"angle":0,"zoom":0,"maskX":0,"maskY":0,"maskURL":null,"frameURL":null},
+    UserColor:1,
+    backgroundcolor:"rgb(160, 160, 160)",
+    tpl:"32_1",
+    reclist:0    };
+var $encrypt_code = "152e244fcf271078a71849498b0e838a";
+</script>
+
+<script type="text/javascript" src="http://sjs.sinajs.cn/blog7common/js/boot.js"></script>
+<script type="text/javascript">__load_js();</script>
+<script type="text/javascript">__render_page();</script>
+
+
+<script type="text/javascript" charset="utf-8" src="http://static.bshare.cn/b/buttonLite.js#style=-1&amp;uuid=b436f96b-ce3c-469f-93ca-9c0c406fcf10&amp;pophcol=2&amp;lang=zh"></script><script type="text/javascript" charset="utf-8" src="http://static.bshare.cn/b/bshareC0.js"></script>
+<script type="text/javascript" charset="utf-8">
+        bShare.addEntry({pic: "", title:"分享自韩寒  《写给那个茶水妹的《乘风破浪》诞生记》", summary:"...  (来自 @头条博客)"});
+     </script>
+
+<script type="text/javascript" src="http://sjs.sinajs.cn/xblogtheme/js/blog680-min.js"></script>
+<script type="text/javascript">
+        var slotArr = ['atcTitLi_SLOT_41', 'atcTitLi_SLOT_42','loginBarActivity']; //广告位id
+        var sourceArr = ['SLOT_41','SLOT_42','SLOT_43,SLOT_47,SLOT_48'];  //广告资源id
+        SinaBlog680.staticBox(slotArr, sourceArr);
+</script>
+</html>

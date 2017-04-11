@@ -1,0 +1,1047 @@
+<!DOCTYPE html><html><head><meta charset="UTF-8" /><meta http-equiv="content-language" content="zh-CN" /><meta http-equiv="x-dns-prefetch-control" content="on" /><link rel="dns-prefetch" href="http://eclick.baidu.com" /><link rel="dns-prefetch" href="http://cpro.baidu.com" /><link rel="dns-prefetch" href="http://cpro.baidustatic.com" /><link rel="dns-prefetch" href="http://inte.sogou.com" /><link rel="dns-prefetch" href="http://js.bkjia.com" /><meta http-equiv="Cache-Control" content="no-siteapp"  /><meta http-equiv="Cache-Control" content="no-transform"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0, minimum-scale=1.0, maximum-scale=1.0"  /><meta name="format-detection" content="telephone=no" /><meta name="applicable-device" content="pc,mobile"><meta name="mobile-agent" content="format=html5; url=http://www.bkjia.com/Pythonjc/992499.html">
+<title>Python中使用Beautiful Soup库的超详细教程，pythonsoup_Python教程 | 帮客之家</title>
+<meta name="keywords" content="Python,div标签"/>
+<meta name="description" content="Python中使用Beautiful Soup库的超详细教程，pythonsoup。Python中使用Beautiful Soup库的超详细教程，pythonsoup 1. Beautiful Soup的简介 简单来说，Beautiful Soup是python的一个库，最主要的功能是从网页抓取数"/>
+<link href="http://css.bkjia.com/bkjia/css/article.css" type="text/css" rel="stylesheet" media="all">
+<base target="_blank"/>
+<!--[if lt IE 9]><script src="http://js.bkjia.com/bkjia/js/html5.js"></script><![endif]-->
+<link rel="shortcut icon" type="image/x-icon" href="http://css.bkjia.com/bkjia/images/favicon.ico" />
+<link href="https://plus.google.com/115281975932467747980" rel="publisher" />
+</head>
+<body>
+<div class="div_body" id="body">
+<script language="javascript" src="http://js.bkjia.com/bkjia/js/head_top.js" type="text/javascript"></script>
+<div class="headnav"><div class="headnav_hmenu"><div class="hmenu"><ul class="clearfix"><li><a href="http://www.bkjia.com/" title="帮客之家首页">首页</a></li><li class="parting"></li><li><a href="http://www.bkjia.com/fenlei/list-76-1.html" title="软件编程">编程</a></li><li><a href="http://www.bkjia.com/fenlei/list-74-1.html" title="web前端">前端</a></li><li><a href="http://www.bkjia.com/fenlei/list-75-1.html" title="WEB编程">WEB</a></li><li><a href="http://www.bkjia.com/fenlei/list-82-1.html" title="移动开发">移动</a></li><li class="parting"></li><li><a href="http://www.bkjia.com/fenlei/list-79-1.html" title="安全攻防">安全</a></li><li><a href="http://www.bkjia.com/fenlei/list-80-1.html" title="网络技术">网络</a></li><li><a href="http://www.bkjia.com/fenlei/list-78-1.html" title="操作系统">系统</a></li><li><a href="http://www.bkjia.com/fenlei/list-83-1.html" title="脚本下载">脚本</a></li><li class="parting"></li><li><a href="http://www.bkjia.com/fenlei/list-84-1.html" title="建站cms">建站</a></li><li><a href="http://www.bkjia.com/fenlei/list-85-1.html" title="网页制作">网页</a></li><li><a href="http://www.bkjia.com/fenlei/list-77-1.html" title="数据库">数据库</a></li><li><a href="http://www.bkjia.com/fenlei/list-81-1.html" title="服务器">服务器</a></li><li class="parting"></li><li><a href="http://www.bkjia.com/fenlei/list-73-1.html" title="手机教程">手机</a></li> <li><a href="http://www.bkjia.com/fenlei/list-71-1.html" title="电脑教程">电脑</a></li><li><a href="http://tech.bkjia.com" title="技术库搜索">技术搜索</a></li><li><a href="http://kansha.bkjia.com" title="今天看啥">今天看啥</a></li>   </ul> </div>
+    <div class="subhmenu">  <ul class="clearfix"><li><a href="http://www.bkjia.com/fenlei/list-186-1.html">PHP</a></li> <li><a href="http://www.bkjia.com/fenlei/list-188-1.html">JSP</a></li><li><a href="http://www.bkjia.com/fenlei/list-98-1.html">JAVA</a></li><li><a href="http://www.bkjia.com/fenlei/list-190-1.html">.NET</a></li><li><a href="http://www.bkjia.com/fenlei/list-196-1.html">IOS</a></li>      	<li><a href="http://www.bkjia.com/fenlei/list-197-1.html">Android</a></li><li><a href="http://www.bkjia.com/fenlei/list-179-1.html">Html5</a></li><li><a href="http://www.bkjia.com/fenlei/list-178-1.html">CSS</a></li><li><a href="http://www.bkjia.com/fenlei/list-182-1.html">Ajax</a></li><li><a href="http://www.bkjia.com/fenlei/list-181-1.html">jQuery</a></li><li class="parting"></li><li><a href="http://www.bkjia.com/fenlei/list-117-1.html">Myslq</a></li><li><a href="http://www.bkjia.com/fenlei/list-118-1.html">Msslq</a></li><li><a href="http://www.bkjia.com/fenlei/list-107-1.html">Sybase</a></li><li><a href="http://www.bkjia.com/fenlei/list-116-1.html">DB2</a></li><li><a href="http://www.bkjia.com/fenlei/list-106-1.html">Oracle</a></li><li class="parting"></li><li><a href="http://www.bkjia.com/fenlei/list-131-1.html">CMS教程</a></li><li><a href="http://www.bkjia.com/fenlei/list-167-1.html">Linux</a></li><li><a href="http://www.bkjia.com/fenlei/list-166-1.html">IIS</a></li><li><a href="http://www.bkjia.com/fenlei/list-169-1.html">Apache</a></li><li><a href="http://www.bkjia.com/fenlei/list-174-1.html">Nginx</a></li> </ul></div>
+  </div></div>
+<div class="div_body head_box mt10"> <div class="clearfix">
+<div class="ad_1"><script src='http://js.bkjia.com/bkjia/js/banner.js' type="text/javascript"></script></div><div class="jrd"><span class="tit">今天看啥</span><ul class="dh_ul"><script src='http://kansha.bkjia.com/data/js/0.js' type="text/javascript"></script></ul></div></div><div class="hot_tj clearfix"> <span class="hot">热点：</span><ul class="tj_r"><script type="text/javascript" src='http://js.bkjia.com/bkjia/js/bannerhot.js' ></script></ul></div>	<div class="hot_tj brand_tj clearfix"><script type="text/javascript" src='http://js.bkjia.com/bkjia/js/bannerhot2.js'></script></div></div><div class="ad"><script src='http://js.bkjia.com/bkjia/js/subnavtop.js' type="text/javascript"></script></div>
+<header id="header" class="header clearfix"><nav class="step step_new" id="nav"><span itemscope itemtype="http://data-vocabulary.org/Breadcrumb">页面导航：<a href='http://www.bkjia.com/' target='_self' itemprop='url'>IT教程</a> > <a href='http://www.bkjia.com/fenlei/list-75-1.html' target='_self' itemprop='url'>WEB编程</a> > <a href='http://www.bkjia.com/fenlei/list-189-1.html' target='_self' itemprop='url'>Python教程</a> > </span>正文
+<span>Python&nbsp;&nbsp;DIV标签&nbsp;&nbsp;</span></nav>
+<div class="search"><a name="search"></a>
+			<form id="search" method="get" action="http://tech.bkjia.com/search.php">
+			<input class="skey" name="keyword" type="text">
+			<input type="hidden" name="sub" value="articlebanner" />
+			<input class="sbtn" value="搜索" type="submit"></input>
+			</form>
+</div></header>
+<div class="wrap clearfix" itemscope itemtype="http://schema.org/TechArticle">
+<div class="left" id="main_left">
+<article class="container">
+<div class="wrap_left wrap_left2">
+<header id="page-header" class="tit_t1 clearfix">
+<h1>Python中使用Beautiful Soup库的超详细教程，pythonsoup</h1><br />
+<div class="view" itemprop="aggregateRating" itemscope itemtype="http://schema.org/AggregateRating"> 热度<span itemprop="ratingValue">2</span>    <a href="#comment" target="_self">评论 <span itemprop="reviewCount">92</span></a> </div>
+<em>www.BkJia.Com</em>  &nbsp;网友分享于：&nbsp;
+<span itemprop="datePublished" content="2015-05-04GMT12:05:23">2015-05-04 12:05:23</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;浏览数13754次
+</header>
+<div class="artitle"><script src='http://js.bkjia.com/bkjia/js/artitle.js' type="text/javascript"></script></div>
+<div class="content" id="cotent_idd" itemprop="articleBody">
+<p><h2>Python中使用Beautiful Soup库的超详细教程，pythonsoup</h2></br><p><strong>1. Beautiful Soup的简介</strong></p>
+<p>简单来说，Beautiful Soup是python的一个库，最主要的功能是从网页抓取数据。官方解释如下：</p>
+<p>&nbsp;&nbsp;&nbsp; Beautiful Soup提供一些简单的、python式的函数用来处理导航、搜索、修改分析树等功能。它是一个工具箱，通过解析文档为用户提供需要抓取的数据，因为简单，所以不需要多少代码就可以写出一个完整的应用程序。</p>
+<p>&nbsp;&nbsp;&nbsp; Beautiful Soup自动将输入文档转换为Unicode编码，输出文档转换为utf-8编码。你不需要考虑编码方式，除非文档没有指定一个编码方式，这时，Beautiful Soup就不能自动识别编码方式了。然后，你仅仅需要说明一下原始编码方式就可以了。</p>
+<p>&nbsp;&nbsp;&nbsp; Beautiful Soup已成为和lxml、html6lib一样出色的python解释器，为用户灵活地提供不同的解析策略或强劲的速度。</p>
+<p>废话不多说，我们来试一下吧~<br />
+<strong>2. Beautiful Soup 安装</strong></p>
+<p>Beautiful Soup 3 目前已经停止开发，推荐在现在的项目中使用Beautiful Soup 4，不过它已经被移植到BS4了，也就是说导入时我们需要 import bs4 。所以这里我们用的版本是 Beautiful Soup 4.3.2 (简称BS4)，另外据说 BS4 对 Python3 的支持不够好，不过我用的是 Python2.7.7，如果有小伙伴用的是 Python3 版本，可以考虑下载 BS3 版本。</p>
+<p>如果你用的是新版的Debain或Ubuntu,那么可以通过系统的软件包管理来安装，不过它不是最新版本，目前是4.2.1版本<br />
+&nbsp;<br />
+</p>
+
+<pre class="code">
+sudo apt-get install Python-bs4
+</pre>
+
+<p>如果想安装最新的版本，请直接下载安装包来手动安装，也是十分方便的方法。在这里我安装的是 Beautiful Soup 4.3.2</p>
+
+<pre class="code">
+Beautiful Soup 3.2.1Beautiful Soup 4.3.2
+
+</pre>
+
+<p>下载完成之后解压</p>
+<p>运行下面的命令即可完成安装<br />
+&nbsp;<br />
+</p>
+
+<pre class="code">
+sudo python setup.py install
+</pre>
+
+<p>如下图所示，证明安装成功了<br />
+</p>
+<p><img alt="2015430164303242.png (722×462)" src="http://www.bkjia.com/uploads/allimg/150504/0026226393-0.png?2015330164316" /></p>
+<p>然后需要安装 lxml<br />
+&nbsp;<br />
+</p>
+
+<pre class="code">
+sudo apt-get install Python-lxml
+</pre>
+
+<p>Beautiful Soup支持Python标准库中的HTML解析器,还支持一些第三方的解析器，如果我们不安装它，则 Python 会使用 Python默认的解析器，lxml 解析器更加强大，速度更快，推荐安装。<br />
+<strong>3. 开启Beautiful Soup 之旅</strong></p>
+<p>在这里先分享官方文档链接，不过内容是有些多，也不够条理，在此本文章做一下整理方便大家参考。</p>
+<p>官方文档<br />
+<strong>4. 创建 Beautiful Soup 对象</strong></p>
+<p>首先必须要导入 bs4 库<br />
+&nbsp;<br />
+</p>
+
+<pre class="code">
+from bs4 import BeautifulSoup
+</pre>
+
+<p>我们创建一个字符串，后面的例子我们便会用它来演示<br />
+&nbsp;<br />
+</p>
+
+<pre class="code">
+html = """
+&lt;html&gt;&lt;head&gt;&lt;title&gt;The Dormouse's story&lt;/title&gt;&lt;/head&gt;
+&lt;body&gt;
+&lt;p class="title" name="dromouse"&gt;&lt;b&gt;The Dormouse's story&lt;/b&gt;&lt;/p&gt;
+&lt;p class="story"&gt;Once upon a time there were three little sisters; and their names were
+&lt;a href="http://example.com/elsie" class="sister" id="link1"&gt;&lt;!-- Elsie --&gt;&lt;/a&gt;,
+&lt;a href="http://example.com/lacie" class="sister" id="link2"&gt;Lacie&lt;/a&gt; and
+&lt;a href="http://example.com/tillie" class="sister" id="link3"&gt;Tillie&lt;/a&gt;;
+and they lived at the bottom of a well.&lt;/p&gt;
+&lt;p class="story"&gt;...&lt;/p&gt;
+"""
+</pre>
+
+<p>创建 beautifulsoup 对象<br />
+&nbsp;<br />
+</p>
+
+<pre class="code">
+soup = BeautifulSoup(html)
+</pre>
+
+<p>另外，我们还可以用本地 HTML 文件来创建对象，例如<br />
+&nbsp;<br />
+</p>
+
+<pre class="code">
+soup = BeautifulSoup(open('index.html'))
+</pre>
+
+<p>上面这句代码便是将本地 index.html 文件打开，用它来创建 soup 对象</p>
+<p>下面我们来打印一下 soup 对象的内容，格式化输出<br />
+&nbsp;<br />
+</p>
+
+<pre class="code">
+print soup.prettify()
+ 
+&lt;html&gt;
+ &lt;head&gt;
+ &lt;title&gt;
+  The Dormouse's story
+ &lt;/title&gt;
+ &lt;/head&gt;
+ &lt;body&gt;
+ &lt;p class="title" name="dromouse"&gt;
+  &lt;b&gt;
+  The Dormouse's story
+  &lt;/b&gt;
+ &lt;/p&gt;
+ &lt;p class="story"&gt;
+  Once upon a time there were three little sisters; and their names were
+  &lt;a class="sister" href="http://example.com/elsie" id="link1"&gt;
+  &lt;!-- Elsie --&gt;
+  &lt;/a&gt;
+  ,
+  &lt;a class="sister" href="http://example.com/lacie" id="link2"&gt;
+  Lacie
+  &lt;/a&gt;
+  and
+  &lt;a class="sister" href="http://example.com/tillie" id="link3"&gt;
+  Tillie
+  &lt;/a&gt;
+  ;
+and they lived at the bottom of a well.
+ &lt;/p&gt;
+ &lt;p class="story"&gt;
+  ...
+ &lt;/p&gt;
+ &lt;/body&gt;
+&lt;/html&gt;
+</pre>
+
+<p>以上便是输出结果，格式化打印出了它的内容，这个函数经常用到，小伙伴们要记好咯。<br />
+<strong>5. 四大对象种类</strong></p>
+<p>Beautiful Soup将复杂HTML文档转换成一个复杂的树形结构,每个节点都是Python对象,所有对象可以归纳为4种:</p>
+<ol>
+  <li>&nbsp;&nbsp;&nbsp; Tag</li>
+  <li>&nbsp;&nbsp;&nbsp; NavigableString</li>
+  <li>&nbsp;&nbsp;&nbsp; BeautifulSoup</li>
+  <li>&nbsp;&nbsp;&nbsp; Comment</li>
+</ol>
+<p>下面我们进行一一介绍<br />
+<strong>（1）Tag</strong></p>
+<p>Tag 是什么？通俗点讲就是 HTML 中的一个个标签，例如<br />
+&nbsp;<br />
+</p>
+
+<pre class="code">
+&lt;title&gt;The Dormouse's story&lt;/title&gt;
+ 
+&lt;a class="sister" href="http://example.com/elsie" id="link1"&gt;Elsie&lt;/a&gt;
+</pre>
+
+<p>上面的 title a 等等 HTML 标签加上里面包括的内容就是 Tag，下面我们来感受一下怎样用 Beautiful Soup 来方便地获取 Tags</p>
+<p>下面每一段代码中注释部分即为运行结果<br />
+&nbsp;<br />
+</p>
+
+<pre class="code">
+print soup.title
+#&lt;title&gt;The Dormouse's story&lt;/title&gt;
+ 
+print soup.head
+#&lt;head&gt;&lt;title&gt;The Dormouse's story&lt;/title&gt;&lt;/head&gt;
+ 
+print soup.a
+#&lt;a class="sister" href="http://example.com/elsie" id="link1"&gt;&lt;!-- Elsie --&gt;&lt;/a&gt;
+ 
+print soup.p
+#&lt;p class="title" name="dromouse"&gt;&lt;b&gt;The Dormouse's story&lt;/b&gt;&lt;/p&gt;
+</pre>
+
+<p>我们可以利用 soup加标签名轻松地获取这些标签的内容，是不是感觉比正则表达式方便多了？不过有一点是，它查找的是在所有内容中的第一个符合要求的标签，如果要查询所有的标签，我们在后面进行介绍。</p>
+<p>我们可以验证一下这些对象的类型<br />
+&nbsp;<br />
+</p>
+
+<pre class="code">
+print type(soup.a)
+#&lt;class 'bs4.element.Tag'&gt;
+</pre>
+
+<p>对于 Tag，它有两个重要的属性，是 name 和 attrs，下面我们分别来感受一下</p>
+
+<pre class="code">
+name
+ 
+print soup.name
+print soup.head.name
+#[document]
+#head
+
+</pre>
+
+<p>soup 对象本身比较特殊，它的 name 即为 [document]，对于其他内部标签，输出的值便为标签本身的名称。</p>
+
+<pre class="code">
+attrs
+ 
+print soup.p.attrs
+#{'class': ['title'], 'name': 'dromouse'}
+
+</pre>
+
+<p>在这里，我们把 p 标签的所有属性打印输出了出来，得到的类型是一个字典。</p>
+<p>如果我们想要单独获取某个属性，可以这样，例如我们获取它的 class 叫什么<br />
+&nbsp;<br />
+</p>
+
+<pre class="code">
+print soup.p['class']
+#['title']
+</pre>
+
+<p>还可以这样，利用get方法，传入属性的名称，二者是等价的<br />
+&nbsp;<br />
+</p>
+
+<pre class="code">
+print soup.p.get('class')
+#['title']
+</pre>
+
+<p>我们可以对这些属性和内容等等进行修改，例如<br />
+&nbsp;<br />
+</p>
+
+<pre class="code">
+soup.p['class']="newClass"
+print soup.p
+#&lt;p class="newClass" name="dromouse"&gt;&lt;b&gt;The Dormouse's story&lt;/b&gt;&lt;/p&gt;
+</pre>
+
+<p>还可以对这个属性进行删除，例如<br />
+&nbsp;<br />
+</p>
+
+<pre class="code">
+del soup.p['class']
+print soup.p
+#&lt;p name="dromouse"&gt;&lt;b&gt;The Dormouse's story&lt;/b&gt;&lt;/p&gt;
+</pre>
+
+<p>不过，对于修改删除的操作，不是我们的主要用途，在此不做详细介绍了，如果有需要，请查看前面提供的官方文档<br />
+<strong>（2）NavigableString</strong></p>
+<p>既然我们已经得到了标签的内容，那么问题来了，我们要想获取标签内部的文字怎么办呢？很简单，用 .string 即可，例如<br />
+&nbsp;<br />
+</p>
+
+<pre class="code">
+print soup.p.string
+#The Dormouse's story
+</pre>
+
+<p>这样我们就轻松获取到了标签里面的内容，想想如果用正则表达式要多麻烦。它的类型是一个 NavigableString，翻译过来叫 可以遍历的字符串，不过我们最好还是称它英文名字吧。<br />
+&nbsp;<br />
+</p>
+
+<pre class="code">
+print type(soup.p.string)
+#&lt;class 'bs4.element.NavigableString'&gt;
+</pre>
+
+<p>来检查一下它的类型<br />
+&nbsp;<br />
+</p>
+
+<pre class="code">
+print type(soup.p.string)
+#&lt;class 'bs4.element.NavigableString'&gt;
+</pre>
+
+<p><strong>（3）BeautifulSoup</strong></p>
+<p>BeautifulSoup 对象表示的是一个文档的全部内容.大部分时候,可以把它当作 Tag 对象，是一个特殊的 Tag，我们可以分别获取它的类型，名称，以及属性来感受一下<br />
+&nbsp;<br />
+</p>
+
+<pre class="code">
+print type(soup.name)
+#&lt;type 'unicode'&gt;
+print soup.name 
+# [document]
+print soup.attrs 
+#{} 空字典
+</pre>
+
+<p><strong>（4）Comment</strong></p>
+<p>Comment 对象是一个特殊类型的 NavigableString 对象，其实输出的内容仍然不包括注释符号，但是如果不好好处理它，可能会对我们的文本处理造成意想不到的麻烦。</p>
+<p>我们找一个带注释的标签<br />
+&nbsp;<br />
+</p>
+
+<pre class="code">
+print soup.a
+print soup.a.string
+print type(soup.a.string)
+</pre>
+
+<p>运行结果如下<br />
+&nbsp;<br />
+</p>
+
+<pre class="code">
+&lt;a class="sister" href="http://example.com/elsie" id="link1"&gt;&lt;!-- Elsie --&gt;&lt;/a&gt;
+ Elsie 
+&lt;class 'bs4.element.Comment'&gt;
+</pre>
+
+<p>a 标签里的内容实际上是注释，但是如果我们利用 .string 来输出它的内容，我们发现它已经把注释符号去掉了，所以这可能会给我们带来不必要的麻烦。</p>
+<p>另外我们打印输出下它的类型，发现它是一个 Comment 类型，所以，我们在使用前最好做一下判断，判断代码如下<br />
+&nbsp;<br />
+</p>
+
+<pre class="code">
+if type(soup.a.string)==bs4.element.Comment:
+  print soup.a.string
+</pre>
+
+<p>上面的代码中，我们首先判断了它的类型，是否为 Comment 类型，然后再进行其他操作，如打印输出。<br />
+<strong>6. 遍历文档树<br />
+（1）直接子节点</strong></p>
+<p>&nbsp;&nbsp;&nbsp; 要点：.contents .children 属性</p>
+<p>.contents<br />
+<br />
+</p>
+<p>tag 的 .content 属性可以将tag的子节点以列表的方式输出<br />
+&nbsp;<br />
+</p>
+
+<pre class="code">
+print soup.head.contents 
+#[&lt;title&gt;The Dormouse's story&lt;/title&gt;]
+</pre>
+
+<p>输出方式为列表，我们可以用列表索引来获取它的某一个元素<br />
+&nbsp;<br />
+</p>
+
+<pre class="code">
+print soup.head.contents[0]
+#&lt;title&gt;The Dormouse's story&lt;/title&gt;
+
+.children
+
+</pre>
+
+<p>它返回的不是一个 list，不过我们可以通过遍历获取所有子节点。</p>
+<p>我们打印输出 .children 看一下，可以发现它是一个 list 生成器对象<br />
+&nbsp;<br />
+</p>
+
+<pre class="code">
+print soup.head.children
+#&lt;listiterator object at 0x7f71457f5710&gt;
+</pre>
+
+<p>我们怎样获得里面的内容呢？很简单，遍历一下就好了，代码及结果如下<br />
+&nbsp;<br />
+</p>
+
+<pre class="code">
+for child in soup.body.children:
+  print child
+ 
+&lt;p class="title" name="dromouse"&gt;&lt;b&gt;The Dormouse's story&lt;/b&gt;&lt;/p&gt;
+ 
+&lt;p class="story"&gt;Once upon a time there were three little sisters; and their names were
+&lt;a class="sister" href="http://example.com/elsie" id="link1"&gt;&lt;!-- Elsie --&gt;&lt;/a&gt;,
+&lt;a class="sister" href="http://example.com/lacie" id="link2"&gt;Lacie&lt;/a&gt; and
+&lt;a class="sister" href="http://example.com/tillie" id="link3"&gt;Tillie&lt;/a&gt;;
+and they lived at the bottom of a well.&lt;/p&gt;
+ 
+&lt;p class="story"&gt;...&lt;/p&gt;
+</pre>
+
+<p><strong>（2）所有子孙节点</strong></p>
+<p>&nbsp;&nbsp;&nbsp; 知识点：.descendants 属性</p>
+<p><strong>.descendants<br />
+</strong><br />
+</p>
+<p>.contents 和 .children 属性仅包含tag的直接子节点，.descendants 属性可以对所有tag的子孙节点进行递归循环，和 children类似，我们也需要遍历获取其中的内容。<br />
+&nbsp;<br />
+</p>
+
+<pre class="code">
+for child in soup.descendants:
+  print child
+</pre>
+
+<p>运行结果如下，可以发现，所有的节点都被打印出来了，先生最外层的 HTML标签，其次从 head 标签一个个剥离，以此类推。<br />
+&nbsp;<br />
+</p>
+
+<pre class="code">
+&lt;html&gt;&lt;head&gt;&lt;title&gt;The Dormouse's story&lt;/title&gt;&lt;/head&gt;
+&lt;body&gt;
+&lt;p class="title" name="dromouse"&gt;&lt;b&gt;The Dormouse's story&lt;/b&gt;&lt;/p&gt;
+&lt;p class="story"&gt;Once upon a time there were three little sisters; and their names were
+&lt;a class="sister" href="http://example.com/elsie" id="link1"&gt;&lt;!-- Elsie --&gt;&lt;/a&gt;,
+&lt;a class="sister" href="http://example.com/lacie" id="link2"&gt;Lacie&lt;/a&gt; and
+&lt;a class="sister" href="http://example.com/tillie" id="link3"&gt;Tillie&lt;/a&gt;;
+and they lived at the bottom of a well.&lt;/p&gt;
+&lt;p class="story"&gt;...&lt;/p&gt;
+&lt;/body&gt;&lt;/html&gt;
+&lt;head&gt;&lt;title&gt;The Dormouse's story&lt;/title&gt;&lt;/head&gt;
+&lt;title&gt;The Dormouse's story&lt;/title&gt;
+The Dormouse's story
+ 
+&lt;body&gt;
+&lt;p class="title" name="dromouse"&gt;&lt;b&gt;The Dormouse's story&lt;/b&gt;&lt;/p&gt;
+&lt;p class="story"&gt;Once upon a time there were three little sisters; and their names were
+&lt;a class="sister" href="http://example.com/elsie" id="link1"&gt;&lt;!-- Elsie --&gt;&lt;/a&gt;,
+&lt;a class="sister" href="http://example.com/lacie" id="link2"&gt;Lacie&lt;/a&gt; and
+&lt;a class="sister" href="http://example.com/tillie" id="link3"&gt;Tillie&lt;/a&gt;;
+and they lived at the bottom of a well.&lt;/p&gt;
+&lt;p class="story"&gt;...&lt;/p&gt;
+&lt;/body&gt;
+ 
+&lt;p class="title" name="dromouse"&gt;&lt;b&gt;The Dormouse's story&lt;/b&gt;&lt;/p&gt;
+&lt;b&gt;The Dormouse's story&lt;/b&gt;
+The Dormouse's story
+ 
+&lt;p class="story"&gt;Once upon a time there were three little sisters; and their names were
+&lt;a class="sister" href="http://example.com/elsie" id="link1"&gt;&lt;!-- Elsie --&gt;&lt;/a&gt;,
+&lt;a class="sister" href="http://example.com/lacie" id="link2"&gt;Lacie&lt;/a&gt; and
+&lt;a class="sister" href="http://example.com/tillie" id="link3"&gt;Tillie&lt;/a&gt;;
+and they lived at the bottom of a well.&lt;/p&gt;
+Once upon a time there were three little sisters; and their names were
+ 
+&lt;a class="sister" href="http://example.com/elsie" id="link1"&gt;&lt;!-- Elsie --&gt;&lt;/a&gt;
+ Elsie 
+,
+ 
+&lt;a class="sister" href="http://example.com/lacie" id="link2"&gt;Lacie&lt;/a&gt;
+Lacie
+ and
+ 
+&lt;a class="sister" href="http://example.com/tillie" id="link3"&gt;Tillie&lt;/a&gt;
+Tillie
+;
+and they lived at the bottom of a well.
+ 
+&lt;p class="story"&gt;...&lt;/p&gt;
+...
+</pre>
+
+<p><strong>（3）节点内容</strong></p>
+<p>&nbsp;&nbsp;&nbsp; 知识点：.string 属性</p>
+<p>如果tag只有一个 NavigableString 类型子节点,那么这个tag可以使用 .string 得到子节点。如果一个tag仅有一个子节点,那么这个tag也可以使用 .string 方法,输出结果与当前唯一子节点的 .string 结果相同。</p>
+<p>通俗点说就是：如果一个标签里面没有标签了，那么 .string 就会返回标签里面的内容。如果标签里面只有唯一的一个标签了，那么 .string 也会返回最里面的内容。例如<br />
+&nbsp;<br />
+</p>
+
+<pre class="code">
+print soup.head.string
+#The Dormouse's story
+print soup.title.string
+#The Dormouse's story
+</pre>
+
+<p>如果tag包含了多个子节点,tag就无法确定，string 方法应该调用哪个子节点的内容, .string 的输出结果是 None<br />
+&nbsp;<br />
+</p>
+
+<pre class="code">
+print soup.html.string
+# None
+</pre>
+
+<p><strong>（4）多个内容</strong></p>
+<p>&nbsp;&nbsp;&nbsp; 知识点： .strings .stripped_strings 属性</p>
+<p><strong>.strings</strong></p>
+<p>获取多个内容，不过需要遍历获取，比如下面的例子<br />
+&nbsp;<br />
+</p>
+
+<pre class="code">
+for string in soup.strings:
+  print(repr(string))
+  # u"The Dormouse's story"
+  # u'\n\n'
+  # u"The Dormouse's story"
+  # u'\n\n'
+  # u'Once upon a time there were three little sisters; and their names were\n'
+  # u'Elsie'
+  # u',\n'
+  # u'Lacie'
+  # u' and\n'
+  # u'Tillie'
+  # u';\nand they lived at the bottom of a well.'
+  # u'\n\n'
+  # u'...'
+  # u'\n'
+</pre>
+
+<p><strong>.stripped_strings</strong></p>
+<p>输出的字符串中可能包含了很多空格或空行,使用 .stripped_strings 可以去除多余空白内容<br />
+&nbsp;<br />
+</p>
+
+<pre class="code">
+for string in soup.stripped_strings:
+  print(repr(string))
+  # u"The Dormouse's story"
+  # u"The Dormouse's story"
+  # u'Once upon a time there were three little sisters; and their names were'
+  # u'Elsie'
+  # u','
+  # u'Lacie'
+  # u'and'
+  # u'Tillie'
+  # u';\nand they lived at the bottom of a well.'
+  # u'...'
+</pre>
+
+<p><strong>（5）父节点</strong></p>
+<p>&nbsp;&nbsp;&nbsp; 知识点： .parent 属性</p>
+<p>&nbsp;<br />
+</p>
+
+<pre class="code">
+p = soup.p
+print p.parent.name
+#body
+ 
+content = soup.head.title.string
+print content.parent.name
+#title
+</pre>
+
+<p><strong>（6）全部父节点</strong></p>
+<p>&nbsp;&nbsp;&nbsp; 知识点：.parents 属性</p>
+<p>通过元素的 .parents 属性可以递归得到元素的所有父辈节点，例如<br />
+&nbsp;<br />
+</p>
+
+<pre class="code">
+content = soup.head.title.string
+for parent in content.parents:
+  print parent.name
+</pre>
+
+<p>&nbsp;<br />
+</p>
+
+<pre class="code">
+title
+head
+html
+[document]
+</pre>
+
+<p><strong>（7）兄弟节点</strong></p>
+<p>&nbsp;&nbsp;&nbsp; 知识点：.next_sibling .previous_sibling 属性</p>
+<p>兄弟节点可以理解为和本节点处在统一级的节点，.next_sibling 属性获取了该节点的下一个兄弟节点，.previous_sibling 则与之相反，如果节点不存在，则返回 None</p>
+<p>注意：实际文档中的tag的 .next_sibling 和 .previous_sibling 属性通常是字符串或空白，因为空白或者换行也可以被视作一个节点，所以得到的结果可能是空白或者换行<br />
+&nbsp;<br />
+</p>
+
+<pre class="code">
+print soup.p.next_sibling
+#    实际该处为空白
+print soup.p.prev_sibling
+#None  没有前一个兄弟节点，返回 None
+print soup.p.next_sibling.next_sibling
+#&lt;p class="story"&gt;Once upon a time there were three little sisters; and their names were
+#&lt;a class="sister" href="http://example.com/elsie" id="link1"&gt;&lt;!-- Elsie --&gt;&lt;/a&gt;,
+#&lt;a class="sister" href="http://example.com/lacie" id="link2"&gt;Lacie&lt;/a&gt; and
+#&lt;a class="sister" href="http://example.com/tillie" id="link3"&gt;Tillie&lt;/a&gt;;
+#and they lived at the bottom of a well.&lt;/p&gt;
+#下一个节点的下一个兄弟节点是我们可以看到的节点
+</pre>
+
+<p><strong>（8）全部兄弟节点</strong></p>
+<p>&nbsp;&nbsp;&nbsp; 知识点：.next_siblings .previous_siblings 属性</p>
+<p>通过 .next_siblings 和 .previous_siblings 属性可以对当前节点的兄弟节点迭代输出<br />
+&nbsp;<br />
+</p>
+
+<pre class="code">
+for sibling in soup.a.next_siblings:
+  print(repr(sibling))
+  # u',\n'
+  # &lt;a class="sister" href="http://example.com/lacie" id="link2"&gt;Lacie&lt;/a&gt;
+  # u' and\n'
+  # &lt;a class="sister" href="http://example.com/tillie" id="link3"&gt;Tillie&lt;/a&gt;
+  # u'; and they lived at the bottom of a well.'
+  # None
+</pre>
+
+<p><strong>（9）前后节点</strong></p>
+<p>&nbsp;&nbsp;&nbsp; 知识点：.next_element .previous_element 属性</p>
+<p>与 .next_sibling .previous_sibling 不同，它并不是针对于兄弟节点，而是在所有节点，不分层次</p>
+<p>比如 head 节点为<br />
+&nbsp;<br />
+&lt;head&gt;&lt;title&gt;The Dormouse's story&lt;/title&gt;&lt;/head&gt;</p>
+<p>那么它的下一个节点便是 title，它是不分层次关系的<br />
+&nbsp;<br />
+</p>
+
+<pre class="code">
+print soup.head.next_element
+#&lt;title&gt;The Dormouse's story&lt;/title&gt;
+</pre>
+
+<p><strong>（10）所有前后节点</strong></p>
+<p>&nbsp;&nbsp;&nbsp; 知识点：.next_elements .previous_elements 属性</p>
+<p>通过 .next_elements 和 .previous_elements 的迭代器就可以向前或向后访问文档的解析内容,就好像文档正在被解析一样<br />
+&nbsp;<br />
+</p>
+
+<pre class="code">
+for element in last_a_tag.next_elements:
+  print(repr(element))
+# u'Tillie'
+# u';\nand they lived at the bottom of a well.'
+# u'\n\n'
+# &lt;p class="story"&gt;...&lt;/p&gt;
+# u'...'
+# u'\n'
+# None
+</pre>
+
+<p><strong>7.搜索文档树<br />
+（1）find_all( name , attrs , recursive , text , **kwargs )</strong></p>
+<p>find_all() 方法搜索当前tag的所有tag子节点,并判断是否符合过滤器的条件</p>
+<p><strong>1）name 参数</strong></p>
+<p>name 参数可以查找所有名字为 name 的tag,字符串对象会被自动忽略掉</p>
+<p><strong>A.传字符串</strong></p>
+<p>最简单的过滤器是字符串.在搜索方法中传入一个字符串参数,Beautiful Soup会查找与字符串完整匹配的内容,下面的例子用于查找文档中所有的&lt;b&gt;标签<br />
+</p>
+
+<pre class="code">
+soup.find_all('b')
+# [&lt;b&gt;The Dormouse's story&lt;/b&gt;]
+ 
+print soup.find_all('a')
+#[&lt;a class="sister" href="http://example.com/elsie" id="link1"&gt;&lt;!-- Elsie --&gt;&lt;/a&gt;, &lt;a class="sister" href="http://example.com/lacie" id="link2"&gt;Lacie&lt;/a&gt;, &lt;a class="sister" href="http://example.com/tillie" id="link3"&gt;Tillie&lt;/a&gt;]
+</pre>
+
+<p><strong>B.传正则表达式</strong></p>
+<p>如果传入正则表达式作为参数,Beautiful Soup会通过正则表达式的 match() 来匹配内容.下面例子中找出所有以b开头的标签,这表示&lt;body&gt;和&lt;b&gt;标签都应该被找到<br />
+&nbsp;<br />
+</p>
+
+<pre class="code">
+import re
+for tag in soup.find_all(re.compile("^b")):
+  print(tag.name)
+# body
+# b
+</pre>
+
+<p><strong>C.传列表</strong></p>
+<p>如果传入列表参数,Beautiful Soup会将与列表中任一元素匹配的内容返回.下面代码找到文档中所有&lt;a&gt;标签和&lt;b&gt;标签<br />
+&nbsp;<br />
+</p>
+
+<pre class="code">
+soup.find_all(["a", "b"])
+# [&lt;b&gt;The Dormouse's story&lt;/b&gt;,
+# &lt;a class="sister" href="http://example.com/elsie" id="link1"&gt;Elsie&lt;/a&gt;,
+# &lt;a class="sister" href="http://example.com/lacie" id="link2"&gt;Lacie&lt;/a&gt;,
+# &lt;a class="sister" href="http://example.com/tillie" id="link3"&gt;Tillie&lt;/a&gt;]
+</pre>
+
+<p><strong>D.传 True</strong></p>
+<p>True 可以匹配任何值,下面代码查找到所有的tag,但是不会返回字符串节点<br />
+&nbsp;<br />
+</p>
+
+<pre class="code">
+for tag in soup.find_all(True):
+  print(tag.name)
+# html
+# head
+# title
+# body
+# p
+# b
+# p
+# a
+# a
+</pre>
+
+<p><strong>E.传方法</strong></p>
+<p>如果没有合适过滤器,那么还可以定义一个方法,方法只接受一个元素参数 [4] ,如果这个方法返回 True 表示当前元素匹配并且被找到,如果不是则反回 False</p>
+<p>下面方法校验了当前元素,如果包含 class 属性却不包含 id 属性,那么将返回 True:<br />
+&nbsp;<br />
+</p>
+
+<pre class="code">
+def has_class_but_no_id(tag):
+  return tag.has_attr('class') and not tag.has_attr('id')
+</pre>
+
+<p>将这个方法作为参数传入 find_all() 方法,将得到所有&lt;p&gt;标签:<br />
+&nbsp;<br />
+</p>
+
+<pre class="code">
+soup.find_all(has_class_but_no_id)
+# [&lt;p class="title"&gt;&lt;b&gt;The Dormouse's story&lt;/b&gt;&lt;/p&gt;,
+# &lt;p class="story"&gt;Once upon a time there were...&lt;/p&gt;,
+# &lt;p class="story"&gt;...&lt;/p&gt;]
+</pre>
+
+<p><strong>2）keyword 参数</strong></p>
+<p>&nbsp;&nbsp;&nbsp; 注意：如果一个指定名字的参数不是搜索内置的参数名,搜索时会把该参数当作指定名字tag的属性来搜索,如果包含一个名字为 id 的参数,Beautiful Soup会搜索每个tag的”id”属性</p>
+<p>&nbsp;<br />
+</p>
+
+<pre class="code">
+soup.find_all(id='link2')
+# [&lt;a class="sister" href="http://example.com/lacie" id="link2"&gt;Lacie&lt;/a&gt;]
+</pre>
+
+<p>如果传入 href 参数,Beautiful Soup会搜索每个tag的”href”属性<br />
+&nbsp;<br />
+</p>
+
+<pre class="code">
+soup.find_all(href=re.compile("elsie"))
+# [&lt;a class="sister" href="http://example.com/elsie" id="link1"&gt;Elsie&lt;/a&gt;]
+</pre>
+
+<p>使用多个指定名字的参数可以同时过滤tag的多个属性<br />
+&nbsp;<br />
+</p>
+
+<pre class="code">
+soup.find_all(href=re.compile("elsie"), id='link1')
+# [&lt;a class="sister" href="http://example.com/elsie" id="link1"&gt;three&lt;/a&gt;]
+</pre>
+
+<p>在这里我们想用 class 过滤，不过 class 是 python 的关键词，这怎么办？加个下划线就可以<br />
+&nbsp;<br />
+</p>
+
+<pre class="code">
+soup.find_all("a", class_="sister")
+# [&lt;a class="sister" href="http://example.com/elsie" id="link1"&gt;Elsie&lt;/a&gt;,
+# &lt;a class="sister" href="http://example.com/lacie" id="link2"&gt;Lacie&lt;/a&gt;,
+# &lt;a class="sister" href="http://example.com/tillie" id="link3"&gt;Tillie&lt;/a&gt;]
+</pre>
+
+<p>有些tag属性在搜索不能使用,比如HTML5中的 data-* 属性<br />
+&nbsp;<br />
+</p>
+
+<pre class="code">
+soup.find_all("a", class_="sister")
+# [&lt;a class="sister" href="http://example.com/elsie" id="link1"&gt;Elsie&lt;/a&gt;,
+# &lt;a class="sister" href="http://example.com/lacie" id="link2"&gt;Lacie&lt;/a&gt;,
+# &lt;a class="sister" href="http://example.com/tillie" id="link3"&gt;Tillie&lt;/a&gt;]
+</pre>
+
+<p>但是可以通过 find_all() 方法的 attrs 参数定义一个字典参数来搜索包含特殊属性的tag<br />
+&nbsp;<br />
+</p>
+
+<pre class="code">
+data_soup.find_all(attrs={"data-foo": "value"})
+# [&lt;div data-foo="value"&gt;foo!&lt;/div&gt;]
+</pre>
+
+<p><strong>3）text 参数</strong></p>
+<p>通过 text 参数可以搜搜文档中的字符串内容.与 name 参数的可选值一样, text 参数接受 字符串 , 正则表达式 , 列表, True<br />
+&nbsp;<br />
+</p>
+
+<pre class="code">
+soup.find_all(text="Elsie")
+# [u'Elsie']
+ 
+soup.find_all(text=["Tillie", "Elsie", "Lacie"])
+# [u'Elsie', u'Lacie', u'Tillie']
+ 
+soup.find_all(text=re.compile("Dormouse"))
+[u"The Dormouse's story", u"The Dormouse's story"]
+</pre>
+
+<p><strong>4）limit 参数</strong></p>
+<p>find_all() 方法返回全部的搜索结构,如果文档树很大那么搜索会很慢.如果我们不需要全部结果,可以使用 limit 参数限制返回结果的数量.效果与SQL中的limit关键字类似,当搜索到的结果数量达到 limit 的限制时,就停止搜索返回结果.</p>
+<p>文档树中有3个tag符合搜索条件,但结果只返回了2个,因为我们限制了返回数量<br />
+&nbsp;<br />
+</p>
+
+<pre class="code">
+soup.find_all("a", limit=2)
+# [&lt;a class="sister" href="http://example.com/elsie" id="link1"&gt;Elsie&lt;/a&gt;,
+# &lt;a class="sister" href="http://example.com/lacie" id="link2"&gt;Lacie&lt;/a&gt;]
+</pre>
+
+<p><strong>5）recursive 参数</strong></p>
+<p>调用tag的 find_all() 方法时,Beautiful Soup会检索当前tag的所有子孙节点,如果只想搜索tag的直接子节点,可以使用参数 recursive=False .</p>
+<p>一段简单的文档:<br />
+<span><U>复制代码</U></span> 代码如下:&nbsp;<br />
+&lt;html&gt;<br />
+&nbsp;&lt;head&gt;<br />
+&nbsp; &lt;title&gt;<br />
+&nbsp;&nbsp; The Dormouse's story<br />
+&nbsp; &lt;/title&gt;<br />
+&nbsp;&lt;/head&gt;<br />
+...</p>
+<p>是否使用 recursive 参数的搜索结果:<br />
+&nbsp;<br />
+</p>
+
+<pre class="code">
+soup.html.find_all("title")
+# [&lt;title&gt;The Dormouse's story&lt;/title&gt;]
+ 
+soup.html.find_all("title", recursive=False)
+# []
+</pre>
+
+<p><strong>（2）find( name , attrs , recursive , text , **kwargs )</strong></p>
+<p>它与 find_all() 方法唯一的区别是 find_all() 方法的返回结果是值包含一个元素的列表,而 find() 方法直接返回结果<br />
+<strong>（3）find_parents() find_parent()</strong></p>
+<p>find_all() 和 find() 只搜索当前节点的所有子节点,孙子节点等. find_parents() 和 find_parent() 用来搜索当前节点的父辈节点,搜索方法与普通tag的搜索方法相同,搜索文档搜索文档包含的内容<br />
+<strong>（4）find_next_siblings() find_next_sibling()</strong></p>
+<p>这2个方法通过 .next_siblings 属性对当 tag 的所有后面解析的兄弟 tag 节点进行迭代, find_next_siblings() 方法返回所有符合条件的后面的兄弟节点,find_next_sibling() 只返回符合条件的后面的第一个tag节点<br />
+<strong>（5）find_previous_siblings() find_previous_sibling()</strong></p>
+<p>这2个方法通过 .previous_siblings 属性对当前 tag 的前面解析的兄弟 tag 节点进行迭代, find_previous_siblings() 方法返回所有符合条件的前面的兄弟节点, find_previous_sibling() 方法返回第一个符合条件的前面的兄弟节点<br />
+<strong>（6）find_all_next() find_next()</strong></p>
+<p>这2个方法通过 .next_elements 属性对当前 tag 的之后的 tag 和字符串进行迭代, find_all_next() 方法返回所有符合条件的节点, find_next() 方法返回第一个符合条件的节点<br />
+<strong>（7）find_all_previous() 和 find_previous()</strong></p>
+<p>这2个方法通过 .previous_elements 属性对当前节点前面的 tag 和字符串进行迭代, find_all_previous() 方法返回所有符合条件的节点, find_previous()方法返回第一个符合条件的节点</p>
+<p>&nbsp;&nbsp;&nbsp; 注：以上（2）（3）（4）（5）（6）（7）方法参数用法与 find_all() 完全相同，原理均类似，在此不再赘述。</p>
+<p><strong>8.CSS选择器</strong></p>
+<p>我们在写 CSS 时，标签名不加任何修饰，类名前加点，id名前加 #，在这里我们也可以利用类似的方法来筛选元素，用到的方法是 soup.select()，返回类型是 list<br />
+<strong>（1）通过标签名查找<br />
+</strong>&nbsp;<br />
+</p>
+
+<pre class="code">
+print soup.select('title') 
+#[&lt;title&gt;The Dormouse's story&lt;/title&gt;]
+ 
+print soup.select('a')
+#[&lt;a class="sister" href="http://example.com/elsie" id="link1"&gt;&lt;!-- Elsie --&gt;&lt;/a&gt;, &lt;a class="sister" href="http://example.com/lacie" id="link2"&gt;Lacie&lt;/a&gt;, &lt;a class="sister" href="http://example.com/tillie" id="link3"&gt;Tillie&lt;/a&gt;]
+ 
+print soup.select('b')
+#[&lt;b&gt;The Dormouse's story&lt;/b&gt;]
+</pre>
+
+<p><strong>（2）通过类名查找<br />
+</strong>&nbsp;<br />
+</p>
+
+<pre class="code">
+print soup.select('.sister')
+#[&lt;a class="sister" href="http://example.com/elsie" id="link1"&gt;&lt;!-- Elsie --&gt;&lt;/a&gt;, &lt;a class="sister" href="http://example.com/lacie" id="link2"&gt;Lacie&lt;/a&gt;, &lt;a class="sister" href="http://example.com/tillie" id="link3"&gt;Tillie&lt;/a&gt;]
+</pre>
+
+<p><strong>（3）通过 id 名查找<br />
+</strong>&nbsp;<br />
+</p>
+
+<pre class="code">
+print soup.select('#link1')
+#[&lt;a class="sister" href="http://example.com/elsie" id="link1"&gt;&lt;!-- Elsie --&gt;&lt;/a&gt;]
+</pre>
+
+<p><strong>（4）组合查找</strong></p>
+<p>组合查找即和写 class 文件时，标签名与类名、id名进行的组合原理是一样的，例如查找 p 标签中，id 等于 link1的内容，二者需要用空格分开<br />
+&nbsp;<br />
+</p>
+
+<pre class="code">
+print soup.select('p #link1')
+#[&lt;a class="sister" href="http://example.com/elsie" id="link1"&gt;&lt;!-- Elsie --&gt;&lt;/a&gt;]
+</pre>
+
+<p>直接子标签查找<br />
+&nbsp;<br />
+</p>
+
+<pre class="code">
+print soup.select("head &gt; title")
+#[&lt;title&gt;The Dormouse's story&lt;/title&gt;]
+</pre>
+
+<p><strong>（5）属性查找</strong></p>
+<p>查找时还可以加入属性元素，属性需要用中括号括起来，注意属性和标签属于同一节点，所以中间不能加空格，否则会无法匹配到。<br />
+&nbsp;<br />
+</p>
+
+<pre class="code">
+print soup.select("head &gt; title")
+#[&lt;title&gt;The Dormouse's story&lt;/title&gt;]
+ 
+print soup.select('a[href="http://example.com/elsie"]')
+#[&lt;a class="sister" href="http://example.com/elsie" id="link1"&gt;&lt;!-- Elsie --&gt;&lt;/a&gt;]
+</pre>
+
+<p>同样，属性仍然可以与上述查找方式组合，不在同一节点的空格隔开，同一节点的不加空格<br />
+&nbsp;<br />
+</p>
+
+<pre class="code">
+print soup.select('p a[href="http://example.com/elsie"]')
+#[&lt;a class="sister" href="http://example.com/elsie" id="link1"&gt;&lt;!-- Elsie --&gt;&lt;/a&gt;]
+</pre>
+
+<p>好，这就是另一种与 find_all 方法有异曲同工之妙的查找方法，是不是感觉很方便？<br />
+<strong>总结</strong></p>
+<p>本篇内容比较多，把 Beautiful Soup 的方法进行了大部分整理和总结，不过这还不算完全，仍然有 Beautiful Soup 的修改删除功能，不过这些功能用得比较少，只整理了查找提取的方法，希望对大家有帮助！小伙伴们加油！</p>
+<p>熟练掌握了 Beautiful Soup，一定会给你带来太多方便，加油吧！<br />
+</p></p>
+<p align="left"><div style="display:none;"><span id="url" itemprop="url">http://www.bkjia.com/Pythonjc/992499.html</span><span id="indexUrl" itemprop="indexUrl">www.bkjia.com</span><span id="isOriginal" itemprop="isOriginal">true</span><span id="isBasedOnUrl" itemprop="isBasedOnUrl">http://www.bkjia.com/Pythonjc/992499.html</span><span id="genre" itemprop="genre">TechArticle</span><span id="description" itemprop="description">Python中使用Beautiful Soup库的超详细教程，pythonsoup 1. Beautiful Soup的简介 简单来说，Beautiful Soup是python的一个库，最主要的功能是从网页抓取数...</span></div></p></div>
+<div class="art_confoot"><script src='http://js.bkjia.com/bkjia/js/art_confoot.js' type="text/javascript"></script></div>
+<div class="page"></div>
+<div class="post-related"> <h3 class="tit_3">相关文章</h3><div class="clearfix m_5">
+<ul> <li><a href='http://www.bkjia.com/Pythonjc/1019734.html' title='Python base64编码解码实例，pythonbase64' target='_blank'>Python base64编码解码实例，pythonbase64</a></li><li><a href='http://www.bkjia.com/Pythonjc/1019733.html' title='Python中type的构造函数参数含义说明，python构造函数' target='_blank'>Python中type的构造函数参数含义说明，py</a></li><li><a href='http://www.bkjia.com/Pythonjc/1019732.html' title='Python多线程和队列操作实例，python多线程队列' target='_blank'>Python多线程和队列操作实例，python多线程</a></li><li><a href='http://www.bkjia.com/Pythonjc/1019731.html' title='Python文件读取的3种方法及路径转义，' target='_blank'>Python文件读取的3种方法及路径转义，</a></li><li><a href='http://www.bkjia.com/Pythonjc/1019730.html' title='让Python代码更快运行的5种方法，python代码运行5种' target='_blank'>让Python代码更快运行的5种方法，python代码</a></li><li><a href='http://www.bkjia.com/Pythonjc/1019729.html' title='Python ValueError: invalid literal for int() with base 10 实用解决方法，valueerrorliteral' target='_blank'>Python ValueError: invalid literal for int() with b</a></li></ul></div>
+<div class="hot_c"><span><b style="color:#000; ">相关搜索：</b>
+ <a href='http://tech.bkjia.com/search.php?keyword=Python&sub=articlefoot' target=_blank >Python</a> <a href='http://tech.bkjia.com/search.php?keyword=div%E6%A0%87%E7%AD%BE&sub=articlefoot' target=_blank >div标签</a>
+ </span></div>
+</div>
+<div class="option-btns">
+<a href="http://kansha.bkjia.com/" title="简单休息，找找灵感"><div class="sharebox"><span class="btn">今天看啥</span></div></a>
+<a href="http://tech.bkjia.com/" title="在300万技术库中找思路"><div class="likebox"><span class="btn">搜索技术库</span></div></a>
+<a href="http://www.bkjia.com/" title="更多it教程"><div class="comment-btn"><span class="btn"><em id="article_comment_num_2013">返回首页</em></span></div></a>
+</div>
+		
+		<div  id="related_reading" class="haman-box">
+		<ul class="xgyd clearfix">
+ <div class="xgyd_new"><span class="fast-nav-bar"><a href="http://www.bkjia.com/fenlei/list-272-1.html">今日最新</a></span><strong>相关阅读：</strong></div>
+ <li><a href="http://www.bkjia.com/Pythonjc/1019734.html">Python base64编码解码实例，pythonbase64</a></li>
+<li><a href="http://www.bkjia.com/Pythonjc/1019733.html">Python中type的构造函数参数含义说明，python构</a></li>
+<li><a href="http://www.bkjia.com/Pythonjc/1019732.html">Python多线程和队列操作实例，python多线程队列</a></li>
+<li><a href="http://www.bkjia.com/Pythonjc/1019731.html">Python文件读取的3种方法及路径转义，</a></li>
+<li><a href="http://www.bkjia.com/Pythonjc/1019730.html">让Python代码更快运行的5种方法，python代码运</a></li>
+<li><a href="http://www.bkjia.com/Pythonjc/1019729.html">Python ValueError: invalid literal for int() with base 1</a></li>
+
+ </ul></div>
+<footer><div class="hot_c"><span><b>相关频道：</b>
+<a href="http://www.bkjia.com/fenlei/list-186-1.html" >PHP教程</a>&nbsp;&nbsp;<a href="http://www.bkjia.com/fenlei/list-187-1.html" >WEB编程教程</a>&nbsp;&nbsp;<a href="http://www.bkjia.com/fenlei/list-188-1.html" >Jsp教程</a>&nbsp;&nbsp;<a href="http://www.bkjia.com/fenlei/list-189-1.html" >Python教程</a>&nbsp;&nbsp;<a href="http://www.bkjia.com/fenlei/list-190-1.html" >Asp.Net教程</a>&nbsp;&nbsp;<a href="http://www.bkjia.com/fenlei/list-267-1.html" >Ruby教程</a>&nbsp;&nbsp;<a href="http://www.bkjia.com/fenlei/list-268-1.html" >ASP教程</a>&nbsp;&nbsp;<a href="http://www.bkjia.com/fenlei/list-270-1.html" >PHP函数</a>&nbsp;&nbsp;</span></div> </footer> 
+</div>
+<div class="info_more" id="info_more"></div>
+<div class="fixed-share-bar">
+	<div id="bdshare" class="bdsharebuttonbox bdshare_t bds_tools get-codes-bdshare share-bar-btn">
+		<a class="bds_tsina" data-cmd="tsina"></a><a class="bds_qzone" data-cmd="qzone"></a><a class="bds_tqq" data-cmd="tqq"></a><a class="bds_weixin" data-cmd="weixin"></a><a class="bds_more share-more" data-cmd="more"></a></div>
+</div>
+<div class="clearfix mt10 art_commentstop" id="commentTopAd"><script src='http://js.bkjia.com/bkjia/js/art_commentstop.js' type="text/javascript"></script></div>
+<div id="hm_t_46468"></div>
+<a name="comment"></a><div class="comment"  id="commentTopAd" itemprop="comment"><h3>帮客评论</h3></div>
+ <div class="wb_comment_box"  id="commentsiframe"><script type="text/javascript" src='http://js.bkjia.com/bkjia/js/comments.js'></script></div>
+</article>
+<div class="syzp mt10" style="overflow:hidden;"><div class="tit_7">视觉看点</div><script type="text/javascript" src="http://js.bkjia.com/bkjia/js/left_foot_ad.js"></script></div>  
+</div>
+<aside class="right" id="main_right">
+<div class="art_rightad1"><script src='http://js.bkjia.com/bkjia/js/art_rightad1.js' type="text/javascript"></script></div>
+<div class="r_bd mt10 pb10">
+       <div class="tit_5 tit_6">Python教程最近更新</div>
+         <ul id="bbsRank_1" class="rank_ul2 rank_dot" style="border-top:1px solid #AAC5F2;margin-top: -1px;">
+	<li><a href="http://www.bkjia.com/Pythonjc/962637.html">Python标准库：内置函数pow(x, y[, z])</a> </li>
+<li><a href="http://www.bkjia.com/Pythonjc/593033.html">Python函数中三大主要应用形式</a> </li>
+<li><a href="http://www.bkjia.com/Pythonjc/884173.html">Python多线程和Python的锁，python多线程</a> </li>
+<li><a href="http://www.bkjia.com/Pythonjc/995649.html">Python 关键字</a> </li>
+<li><a href="http://www.bkjia.com/Pythonjc/976050.html">python实现2048小游戏，python2048小游戏</a> </li>
+
+</ul></div>
+<div class="art_rightad2 mt10"><script src='http://js.bkjia.com/bkjia/js/art_rightad2.js' type="text/javascript"></script></div>
+<div class="r_bd mt10 pb10">
+       <div class="tit_5 tit_6">热点关注</div>
+	   <ul id="bbsRank_1" class="rank_ul2 rank_dot" style="border-top:1px solid #AAC5F2;margin-top: -1px;">
+	<li><a href="http://www.bkjia.com/jingyan/ios2.html">IOS消息推送机制中pem文件如何生成？</a></li>
+<li><a href="http://www.bkjia.com/headlines/433097.html">SQLSERVER的中文排序规则介绍</a></li>
+<li><a href="http://www.bkjia.com/headlines/437047.html">帮客头条：盘点十大界面精美优雅如艺术</a></li>
+<li><a href="http://www.bkjia.com/jingyan/jsbiaodan.html">js防止表单的重复提交简单有效的策略</a></li>
+<li><a href="http://www.bkjia.com/jingyan/512295.html">codeigniter教程:Codeigniter防止XSS攻击和防止</a></li>
+	
+	</ul>
+        </div>
+<div class="r_bd mt10 pb10"><div style="margin-top: 0pt;" class="tit_5 tit_6">热点推荐</div>
+<script type="text/javascript" src="http://js.bkjia.com/bkjia/js/right_ad5.js"></script></div>
+<div class="art_rightad3"><script src='http://js.bkjia.com/bkjia/js/art_rightad3.js' type="text/javascript"></script></div>
+<div id="focus_look" class="instant-focus mt10"><div class="instant-focus-header clearfix"><h3>即时看点</h3><span>大家正在看什么</span></div>
+<script type="text/javascript" src="http://js.bkjia.com/bkjia/js/right_ad6.js"></script></div>
+<div class="art_rightad4 mt10"><script src='http://js.bkjia.com/bkjia/js/art_rightad4.js' type="text/javascript"></script></div>
+</aside></div></div>
+<footer id="footer" class="div_body">
+<script type="text/javascript" src="http://js.bkjia.com/bkjia/js/arc_foot_ad.js"></script>
+<script type="text/javascript" src="http://js.bkjia.com/bkjia/js/arc_foot.js"></script>
+<div style="display:none;"><script src='http://js.bkjia.com/bkjia/js/bkjiatongji.js' type="text/javascript"></script></div>
+<div id="roll"></i><a title="回顶部" id="roll_top" href="#top" style="opacity: 0.7;" target="_self" rel="nofllow"></a></div>
+</footer>
+<script type="text/javascript" src="http://js.bkjia.com/bkjia/js/main.js"></script>
+<script type="text/javascript" src="http://js.bkjia.com/bkjia/js/maintop.js?131231"></script>
+<script>
+	window._bd_share_config = {
+		common : {
+            bdText : 'Python中使用Beautiful Soup库的超详细教程，pythonsoup 1. Beautiful Soup的简介 简单来说，Beautiful Soup是python的一个库，最主要的功能是从网页抓取数',	
+			bdDesc : 'Python中使用Beautiful Soup库的超详细教程，pythonsoup 1. Beautiful Soup的简介 简单来说，Beautiful Soup是python的一个库，最主要的功能是从网页抓取数',	
+			bdUrl : 'http://www.bkjia.com/Pythonjc/992499.html', 	
+			bdPic : 'http://www.bkjia.com/uploads/allimg/150504/3_05040026226436.png'		},
+		share : [{
+			"bdSize" : 16,
+		}]
+	}
+	with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?cdnversion='+~(-new Date()/36e5)];
+</script>
+</body>
+</html>
