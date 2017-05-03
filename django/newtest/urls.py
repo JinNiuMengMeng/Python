@@ -6,13 +6,12 @@ from django.conf.urls.defaults import patterns, include, url
 
 urlpatterns = patterns('',
     # Examples:
-    # url(r'^$', 'blog.views.home', name='home'),
-    # url(r'^blog/', include('blog.foo.urls')),
-#    url(r'^blog/topic_(?P<uid>[\d, \w, \W]+)$', 'blog.views.homeee'),
-	url(r'^blog/index$', 'blog.views.new'),
+    # url(r'^$', 'newtest.views.home', name='home'),
+    # url(r'^newtest/', include('newtest.foo.urls')),
+
     # Uncomment the admin/doc line below to enable admin documentation:
     # url(r'^admin/doc/', include('django.contrib.admindocs.urls')),
-
+    url(r'^$', 'newtest.views.current_datetime'),
     # Uncomment the next line to enable the admin:
     # url(r'^admin/', include(admin.site.urls)),
 )

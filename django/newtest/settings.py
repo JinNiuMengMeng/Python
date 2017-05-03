@@ -1,4 +1,4 @@
-# Django settings for blog project.
+# Django settings for newtest project.
 
 DEBUG = True
 TEMPLATE_DEBUG = DEBUG
@@ -87,7 +87,7 @@ STATICFILES_FINDERS = (
 )
 
 # Make this unique, and don't share it with anybody.
-SECRET_KEY = 'msgh)e178mp*x)!f(&30a=nxgt*!$u*kqmp6r2+a9^=k+e-u!0'
+SECRET_KEY = 's^68y@b!@28g-1@*g9w%2w$-zdn(ik=w-8$km1k5&t7%txsk#v'
 
 # List of callables that know how to import templates from various sources.
 TEMPLATE_LOADERS = (
@@ -104,13 +104,12 @@ MIDDLEWARE_CLASSES = (
     'django.contrib.messages.middleware.MessageMiddleware',
 )
 
-ROOT_URLCONF = 'blog.urls'
+ROOT_URLCONF = 'newtest.urls'
 
 TEMPLATE_DIRS = (
     # Put strings here, like "/home/html/django_templates" or "C:/www/django/templates".
     # Always use forward slashes, even on Windows.
     # Don't forget to use absolute paths, not relative paths.
-    "/home/heng/Git_store/Python/django/blog/templates",
 )
 
 INSTALLED_APPS = (
@@ -120,7 +119,6 @@ INSTALLED_APPS = (
     'django.contrib.sites',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'blog',
     # Uncomment the next line to enable the admin:
     # 'django.contrib.admin',
     # Uncomment the next line to enable admin documentation:
