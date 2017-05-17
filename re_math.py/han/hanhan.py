@@ -2,6 +2,7 @@
 #coding:utf-8
 import urllib2, urllib, re, os
 import time
+from bs4 import BeautifulSoup
 
 '已浏览器的方式打开连接,防止服务器屏蔽爬虫'
 def url_open(url):
@@ -15,8 +16,6 @@ def url_open(url):
 #     '这是第一页'
 #     url = 'http://blog.sina.com.cn/s/articlelist_1191258123_0_1.html'
 #     content = url_open(url)
-
-
 
 '获取每一页博客中所有文章的链接,将连接以列表的形式返回'
 def get_article_url(html):
@@ -35,7 +34,13 @@ def art_title(url):
 '获取每篇文章的内容   ----   未完成,待处理'
 def art_content(url):
     art_content = url_open(url)
-    return art_content
+    soup = BeautifulSoup(art_content, 'html')
+    title = []
+    title.append(soup.select('#articlebody div  h2')[0].text)
+    for i in soup.select('#sina_keyword_ad_area2 div div'):
+        a = i.text.strip()
+        title.append(a)
+    return ('\n'.join(title)).encode('utf-8')
 
 '保存文章'
 def save_article_file(page):
@@ -67,3 +72,5 @@ def save_article_file(page):
 if __name__ == '__main__':
 
    save_article_file(7)
+#    url = 'http://blog.sina.com.cn/s/blog_4701280b0102eo83.html'
+#    art_content(url)

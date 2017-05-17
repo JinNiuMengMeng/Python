@@ -1,8 +1,9 @@
 #!/usr/bin/python
-#coding:utf-8
+#--*-- coding:utf-8 --*--
 
 import requests, urllib2
 from bs4 import BeautifulSoup
+from datetime import datetime
 
 html_sample = '\
         <html> \
@@ -44,4 +45,14 @@ def url_open(url):
 html = url_open('http://news.sina.com.cn/c/nd/2017-05-02/doc-ifyetwtf9611662.shtml')
 soup1 = BeautifulSoup(html, 'html.parser')
 header = soup1.select('#artibodyTitle')[0].text
-print header
+timesource = soup1.select('.time-source')[0].contents[0].strip().encode('utf-8')
+from_where = soup1.select('.time-source span a')[0].text
+#print timesource, '\t', type(timesource), '\t', len(timesource)
+dt = datetime.strptime(timesource, '%Y年%m月%d日%H:%M')
+content = []
+for p in soup1.select('#artibody p'):
+    content.append(p.text.strip())
+#print '\n'.join(content)
+
+aut = soup1.select('.article-editor')[0].text.encode('utf8').strip('责任编辑：')
+print header, '\t', dt.strftime('%Y-%m-%d %H:%M'), '\t', from_where, '\t', aut
